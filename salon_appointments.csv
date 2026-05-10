@@ -1,0 +1,1201 @@
+appointment_id,appointment_date,stylist_name,branch,client_gender,service_type,duration_minutes,amount_paid,payment_method,appointment_status,client_rating,is_repeat_client
+APT-00001,2025-02-22,Jose Reyes,Makati,Female,Perming,189,2515.05,Maya,Completed,3.2,False
+APT-00002,2025-10-15,Maria Santos,Makati,Female,Haircut,50,319.59,GCash,Completed,4.4,False
+APT-00003,2026-02-17,Marco Villanueva,Pasig,Female,Balayage,204,2399.15,Maya,Cancelled,,False
+APT-00004,2025-07-03,Anna Dela Cruz,BGC,Female,Keratin Treatment,257,4618.74,Maya,Completed,3.5,True
+APT-00005,2025-10-10,Marco Villanueva,Pasig,Female,Toning,100,1093.18,Cash,Rescheduled,,False
+APT-00006,2025-02-10,Carlo Mendoza,Makati,Male,Hair Extension,230,7276.59,Cash,Completed,3.2,False
+APT-00007,2025-12-26,Ryan Castillo,BGC,Male,Hair Spa,86,1155.66,Maya,Completed,3.1,True
+APT-00008,2025-11-24,Carlo Mendoza,BGC,Non-binary,Scalp Treatment,37,1219.35,Credit Card,Completed,4.4,True
+APT-00009,2026-04-28,Maria Santos,Ortigas,Female,Balayage,190,3417.95,Credit Card,Completed,3.4,False
+APT-00010,2025-10-03,Marco Villanueva,BGC,Male,Blow Dry,38,278.82,Maya,Completed,3.9,False
+APT-00011,2026-03-17,Carlo Mendoza,BGC,Male,Hair Relaxing,170,1164.47,Debit Card,Completed,3.3,False
+APT-00012,2025-05-09,Jose Reyes,Quezon City,Female,Hair Extension,230,7855.39,Credit Card,Completed,4.9,True
+APT-00013,2025-08-21,Chloe Aquino,Ortigas,Female,Perming,153,1504.87,Maya,Completed,4.9,True
+APT-00014,2026-01-26,Jose Reyes,Ortigas,Female,Scalp Treatment,60,745.39,Debit Card,Completed,4.6,True
+APT-00015,2026-03-02,Ryan Castillo,Quezon City,Female,Hair Extension,150,7033.87,Cash,Completed,3.1,True
+APT-00016,2025-09-01,Marco Villanueva,Makati,Female,Hair Coloring,111,2409.64,Debit Card,Cancelled,,False
+APT-00017,2025-12-20,Kevin Ramos,Quezon City,Male,Scalp Treatment,39,781.04,GCash,No-show,,False
+APT-00018,2025-02-02,Ryan Castillo,Quezon City,Female,Perming,195,2007.13,Debit Card,Completed,4.1,True
+APT-00019,2025-06-19,Jose Reyes,Makati,Female,Haircut,37,274.8,GCash,Completed,3.6,False
+APT-00020,2025-08-31,Chloe Aquino,BGC,Female,Balayage,174,4018.74,Debit Card,Completed,3.2,False
+APT-00021,2025-12-01,Patricia Lim,Quezon City,Female,Hair Relaxing,102,2476.25,Credit Card,No-show,,True
+APT-00022,2025-03-13,Ryan Castillo,Makati,Female,Blow Dry,28,326.56,GCash,Completed,3.9,True
+APT-00023,2025-01-08,Chloe Aquino,Makati,Female,Hair Spa,60,1178.3,Cash,Completed,3.3,False
+APT-00024,2025-07-19,Carlo Mendoza,Quezon City,Female,Hair Spa,74,685.64,Cash,Completed,3.6,False
+APT-00025,2025-10-05,Carlo Mendoza,Ortigas,Female,Full Highlights,160,1621.92,GCash,Rescheduled,,True
+APT-00026,2025-01-30,Kevin Ramos,Quezon City,Female,Haircut,32,586.27,Debit Card,No-show,,True
+APT-00027,2025-10-19,Kevin Ramos,Makati,Male,Hair Coloring,166,1218.57,GCash,Completed,3.1,True
+APT-00028,2025-12-09,Kevin Ramos,Pasig,Female,Blow Dry,27,414.86,Debit Card,Completed,3.5,True
+APT-00029,2025-01-05,Bianca Flores,Quezon City,Male,Perming,192,2187.43,Maya,No-show,,True
+APT-00030,2026-03-28,Chloe Aquino,BGC,Male,Hair Coloring,121,916.95,Debit Card,Completed,3.7,True
+APT-00031,2025-09-28,Chloe Aquino,Ortigas,Male,Hair Spa,80,505.48,Debit Card,Rescheduled,,False
+APT-00032,2025-10-11,Jose Reyes,BGC,Female,Perming,156,1733.17,Maya,Completed,4.2,False
+APT-00033,2025-01-27,Bianca Flores,Pasig,Male,Balayage,204,2230.75,Credit Card,Completed,4.7,True
+APT-00034,2025-12-28,Ryan Castillo,BGC,Female,Haircut,30,399.69,Maya,Completed,3.2,True
+APT-00035,2025-01-22,Maria Santos,Ortigas,Female,Scalp Treatment,58,877.43,Debit Card,Completed,4.9,True
+APT-00036,2026-03-24,Carlo Mendoza,BGC,Female,Hair Relaxing,169,1609.57,Cash,Completed,4.5,True
+APT-00037,2026-02-05,Anna Dela Cruz,Quezon City,Male,Full Highlights,205,3361.63,Cash,Completed,4.7,True
+APT-00038,2025-04-24,Anna Dela Cruz,Makati,Male,Keratin Treatment,297,2998.93,Credit Card,No-show,,False
+APT-00039,2025-06-18,Bianca Flores,BGC,Female,Hair Relaxing,98,1417.9,GCash,Completed,4.9,False
+APT-00040,2026-03-26,Chloe Aquino,Quezon City,Female,Hair Relaxing,112,2455.6,Debit Card,Completed,4.2,False
+APT-00041,2025-08-12,Jose Reyes,Pasig,Male,Haircut,46,462.17,Credit Card,Completed,3.2,True
+APT-00042,2025-12-18,Maria Santos,Quezon City,Male,Keratin Treatment,274,4298.57,Cash,Completed,4.5,True
+APT-00043,2025-03-05,Patricia Lim,Makati,Male,Hair Relaxing,128,2079.63,Maya,Completed,4.0,False
+APT-00044,2026-04-27,Patricia Lim,Ortigas,Female,Hair Relaxing,112,1568.72,Debit Card,Completed,4.2,False
+APT-00045,2025-10-24,Chloe Aquino,Makati,Female,Blow Dry,30,382.0,Maya,Completed,3.9,False
+APT-00046,2026-01-12,Carlo Mendoza,Pasig,Non-binary,Perming,130,1754.54,Credit Card,Cancelled,,False
+APT-00047,2025-12-11,Kevin Ramos,Ortigas,Male,Scalp Treatment,55,879.38,Cash,Cancelled,,True
+APT-00048,2026-01-29,Maria Santos,Makati,Female,Full Highlights,173,1645.66,GCash,Rescheduled,,True
+APT-00049,2025-01-03,Patricia Lim,Quezon City,Male,Toning,115,1692.66,Credit Card,Completed,4.5,True
+APT-00050,2026-04-15,Carlo Mendoza,BGC,Female,Blow Dry,34,454.5,Debit Card,Completed,3.3,False
+APT-00051,2025-08-15,Chloe Aquino,Pasig,Male,Perming,184,2418.98,Debit Card,Completed,3.9,False
+APT-00052,2025-05-22,Marco Villanueva,Quezon City,Male,Full Highlights,186,3031.63,Maya,Cancelled,,False
+APT-00053,2025-05-20,Carlo Mendoza,Ortigas,Female,Perming,189,2003.77,Credit Card,Completed,3.2,True
+APT-00054,2025-10-05,Patricia Lim,BGC,Female,Balayage,157,3164.81,GCash,Completed,3.4,False
+APT-00055,2025-06-30,Kevin Ramos,Makati,Female,Blow Dry,32,289.58,Debit Card,Completed,4.7,False
+APT-00056,2025-09-06,Chloe Aquino,Pasig,Female,Scalp Treatment,40,626.12,GCash,Completed,4.3,False
+APT-00057,2026-04-10,Anna Dela Cruz,Quezon City,Female,Toning,96,1194.02,GCash,Rescheduled,,True
+APT-00058,2025-06-17,Patricia Lim,BGC,Female,Hair Coloring,131,1159.82,Credit Card,Completed,3.7,False
+APT-00059,2025-01-27,Patricia Lim,Ortigas,Male,Keratin Treatment,224,4999.77,Cash,Completed,3.4,True
+APT-00060,2025-03-20,Maria Santos,Makati,Female,Perming,180,1857.82,GCash,Completed,4.3,True
+APT-00061,2026-01-03,Bianca Flores,Ortigas,Non-binary,Hair Spa,55,580.17,GCash,Completed,4.9,True
+APT-00062,2025-07-23,Maria Santos,Ortigas,Non-binary,Hair Extension,145,7707.35,Debit Card,Completed,3.2,True
+APT-00063,2025-01-22,Bianca Flores,Pasig,Female,Hair Coloring,144,1390.25,Cash,Cancelled,,False
+APT-00064,2025-02-24,Chloe Aquino,Ortigas,Male,Hair Coloring,136,1536.99,Cash,Cancelled,,False
+APT-00065,2025-05-19,Anna Dela Cruz,Quezon City,Non-binary,Toning,118,1415.91,GCash,Completed,4.1,False
+APT-00066,2026-04-24,Patricia Lim,Pasig,Female,Hair Spa,73,560.66,Maya,Completed,3.5,False
+APT-00067,2025-04-04,Kevin Ramos,Quezon City,Male,Hair Extension,165,5437.75,Maya,Completed,4.6,False
+APT-00068,2025-02-13,Kevin Ramos,Ortigas,Male,Keratin Treatment,232,3103.39,Debit Card,Completed,4.0,True
+APT-00069,2025-04-24,Marco Villanueva,Quezon City,Female,Toning,75,1204.4,Credit Card,Cancelled,,False
+APT-00070,2026-01-17,Kevin Ramos,Ortigas,Female,Perming,165,2325.58,Credit Card,Completed,4.4,False
+APT-00071,2026-01-16,Bianca Flores,BGC,Female,Keratin Treatment,277,3839.66,Cash,Completed,4.4,True
+APT-00072,2025-05-25,Marco Villanueva,Ortigas,Female,Balayage,174,4451.28,Debit Card,Rescheduled,,False
+APT-00073,2025-05-21,Ryan Castillo,BGC,Female,Balayage,156,2113.79,Maya,Completed,4.1,True
+APT-00074,2025-08-14,Marco Villanueva,Makati,Female,Perming,126,2011.06,Cash,Completed,3.5,False
+APT-00075,2025-01-28,Jose Reyes,Quezon City,Female,Hair Coloring,162,1057.94,Credit Card,Completed,4.9,True
+APT-00076,2025-04-26,Jose Reyes,Pasig,Male,Balayage,198,3939.23,Credit Card,Completed,3.9,False
+APT-00077,2026-01-14,Kevin Ramos,Quezon City,Female,Keratin Treatment,277,2748.08,Maya,Completed,3.4,True
+APT-00078,2025-01-02,Jose Reyes,BGC,Female,Keratin Treatment,268,3521.29,GCash,Completed,4.2,False
+APT-00079,2025-12-18,Carlo Mendoza,Ortigas,Female,Haircut,38,331.7,Maya,Completed,4.6,True
+APT-00080,2026-02-28,Jose Reyes,Pasig,Male,Blow Dry,21,242.67,GCash,Completed,3.3,False
+APT-00081,2025-12-25,Kevin Ramos,Ortigas,Male,Hair Extension,154,5012.54,Credit Card,Completed,4.0,False
+APT-00082,2025-11-06,Jose Reyes,Pasig,Male,Hair Spa,50,675.26,Cash,No-show,,True
+APT-00083,2025-05-18,Kevin Ramos,Pasig,Male,Perming,142,2364.37,Cash,Rescheduled,,False
+APT-00084,2026-02-21,Marco Villanueva,Ortigas,Female,Scalp Treatment,32,1042.55,GCash,Rescheduled,,False
+APT-00085,2025-06-18,Patricia Lim,Ortigas,Male,Hair Relaxing,153,1617.47,Maya,Completed,3.6,False
+APT-00086,2026-01-31,Maria Santos,Quezon City,Female,Scalp Treatment,46,963.76,Cash,Completed,4.6,True
+APT-00087,2025-11-15,Chloe Aquino,Quezon City,Female,Perming,200,2634.66,Credit Card,Completed,3.9,True
+APT-00088,2025-12-24,Bianca Flores,Pasig,Female,Balayage,153,3211.78,GCash,No-show,,True
+APT-00089,2025-04-26,Anna Dela Cruz,Ortigas,Female,Toning,118,1792.26,Debit Card,Completed,3.2,True
+APT-00090,2026-03-04,Anna Dela Cruz,Quezon City,Female,Perming,180,2223.75,Maya,Completed,3.5,True
+APT-00091,2025-02-05,Carlo Mendoza,Pasig,Female,Blow Dry,45,282.87,Debit Card,Completed,4.7,False
+APT-00092,2025-10-24,Bianca Flores,Makati,Male,Scalp Treatment,45,1499.01,Maya,Completed,4.7,False
+APT-00093,2025-08-22,Marco Villanueva,Ortigas,Female,Scalp Treatment,57,1439.57,Maya,Completed,3.4,True
+APT-00094,2025-12-28,Patricia Lim,BGC,Male,Hair Extension,168,7567.15,Credit Card,Completed,3.8,True
+APT-00095,2025-02-21,Maria Santos,BGC,Female,Hair Spa,73,1111.93,Debit Card,Rescheduled,,True
+APT-00096,2025-03-21,Marco Villanueva,Makati,Male,Scalp Treatment,55,667.35,GCash,Completed,4.9,False
+APT-00097,2025-07-14,Patricia Lim,Makati,Male,Hair Extension,200,7770.7,Maya,No-show,,False
+APT-00098,2025-05-28,Maria Santos,Pasig,Male,Scalp Treatment,53,1497.68,Cash,Completed,3.2,True
+APT-00099,2025-01-24,Jose Reyes,Quezon City,Male,Perming,127,1986.56,GCash,Completed,3.6,False
+APT-00100,2025-04-03,Anna Dela Cruz,BGC,Male,Blow Dry,22,251.0,Debit Card,Completed,4.2,False
+APT-00101,2025-05-11,Carlo Mendoza,Quezon City,Female,Hair Extension,205,5297.85,Debit Card,Completed,3.0,False
+APT-00102,2025-10-28,Chloe Aquino,BGC,Female,Keratin Treatment,234,3247.89,Cash,Completed,4.4,False
+APT-00103,2025-07-03,Carlo Mendoza,Quezon City,Female,Keratin Treatment,269,3937.03,Credit Card,Completed,3.6,False
+APT-00104,2026-03-03,Maria Santos,Pasig,Male,Keratin Treatment,216,4760.39,Cash,No-show,,True
+APT-00105,2026-01-05,Ryan Castillo,BGC,Male,Hair Extension,207,6837.35,GCash,Completed,4.7,True
+APT-00106,2025-03-09,Maria Santos,Ortigas,Female,Perming,157,1635.2,Credit Card,Completed,3.7,False
+APT-00107,2025-09-14,Carlo Mendoza,BGC,Female,Full Highlights,141,3326.97,Debit Card,No-show,,False
+APT-00108,2026-01-22,Bianca Flores,Ortigas,Female,Hair Spa,88,1176.55,Cash,Completed,4.4,False
+APT-00109,2025-08-21,Ryan Castillo,Makati,Female,Scalp Treatment,53,931.73,Credit Card,Completed,4.3,False
+APT-00110,2026-04-28,Ryan Castillo,Makati,Female,Perming,198,2342.11,GCash,Completed,3.4,True
+APT-00111,2025-01-20,Marco Villanueva,Ortigas,Female,Perming,183,1956.55,Credit Card,Completed,3.2,True
+APT-00112,2025-12-23,Anna Dela Cruz,Quezon City,Male,Scalp Treatment,43,1451.38,Credit Card,Completed,4.2,True
+APT-00113,2025-01-17,Jose Reyes,Quezon City,Non-binary,Blow Dry,26,407.08,Debit Card,Completed,3.9,True
+APT-00114,2025-02-01,Jose Reyes,Ortigas,Female,Hair Relaxing,114,1597.21,Debit Card,No-show,,True
+APT-00115,2025-06-20,Jose Reyes,BGC,Female,Hair Spa,53,670.5,Debit Card,Rescheduled,,True
+APT-00116,2025-06-18,Chloe Aquino,BGC,Male,Hair Coloring,166,2116.43,Debit Card,Completed,3.0,True
+APT-00117,2025-03-09,Chloe Aquino,Ortigas,Male,Full Highlights,150,1529.72,GCash,Completed,4.2,True
+APT-00118,2026-01-17,Bianca Flores,Makati,Female,Full Highlights,177,1627.12,GCash,Completed,4.6,True
+APT-00119,2026-03-20,Chloe Aquino,BGC,Male,Hair Spa,64,961.23,Debit Card,Completed,3.9,True
+APT-00120,2026-04-11,Marco Villanueva,Quezon City,Female,Haircut,58,405.25,Credit Card,Completed,3.2,True
+APT-00121,2025-06-16,Anna Dela Cruz,Ortigas,Female,Hair Coloring,166,1447.54,Debit Card,Completed,4.1,False
+APT-00122,2025-12-02,Kevin Ramos,Quezon City,Female,Scalp Treatment,54,1185.82,Cash,Cancelled,,True
+APT-00123,2025-08-01,Marco Villanueva,BGC,Female,Blow Dry,30,418.88,Credit Card,Completed,3.9,False
+APT-00124,2025-08-10,Anna Dela Cruz,Quezon City,Female,Hair Relaxing,137,1144.85,Cash,Completed,4.6,True
+APT-00125,2026-03-24,Chloe Aquino,Pasig,Female,Hair Extension,216,6326.7,Maya,Completed,3.8,True
+APT-00126,2025-03-21,Kevin Ramos,Ortigas,Female,Keratin Treatment,208,4141.84,Maya,Completed,4.7,False
+APT-00127,2026-03-09,Ryan Castillo,Makati,Male,Scalp Treatment,54,1104.87,Maya,Completed,4.6,True
+APT-00128,2026-04-17,Bianca Flores,Makati,Male,Hair Extension,120,4699.12,GCash,Completed,3.4,True
+APT-00129,2025-02-16,Patricia Lim,Makati,Non-binary,Hair Extension,147,6730.56,GCash,Completed,3.8,False
+APT-00130,2025-10-18,Anna Dela Cruz,Ortigas,Male,Hair Relaxing,96,1894.34,Maya,Completed,3.3,True
+APT-00131,2025-08-15,Jose Reyes,Ortigas,Female,Perming,147,2121.28,Credit Card,Completed,4.5,True
+APT-00132,2025-09-27,Patricia Lim,Makati,Female,Hair Relaxing,95,2000.7,Maya,Completed,3.4,True
+APT-00133,2025-05-29,Carlo Mendoza,Ortigas,Male,Haircut,30,364.84,GCash,Cancelled,,False
+APT-00134,2025-09-14,Patricia Lim,BGC,Male,Toning,102,1358.72,GCash,Completed,4.6,True
+APT-00135,2025-06-10,Maria Santos,Quezon City,Female,Blow Dry,38,372.73,Cash,Completed,3.8,False
+APT-00136,2025-11-13,Jose Reyes,Quezon City,Female,Keratin Treatment,268,3650.24,Cash,Rescheduled,,False
+APT-00137,2025-02-10,Patricia Lim,Makati,Female,Hair Coloring,129,1472.8,GCash,Completed,4.5,True
+APT-00138,2025-04-10,Anna Dela Cruz,Makati,Female,Hair Relaxing,134,2358.88,Debit Card,Completed,3.7,True
+APT-00139,2026-01-25,Jose Reyes,BGC,Female,Balayage,159,3897.88,Maya,Completed,3.4,False
+APT-00140,2025-11-26,Kevin Ramos,Pasig,Male,Hair Spa,84,944.71,Credit Card,Completed,3.6,False
+APT-00141,2025-05-21,Marco Villanueva,Makati,Female,Full Highlights,165,2682.84,Credit Card,Completed,4.0,False
+APT-00142,2025-11-27,Marco Villanueva,Makati,Female,Hair Spa,50,1104.98,Cash,Completed,4.2,False
+APT-00143,2025-11-30,Kevin Ramos,Pasig,Male,Hair Spa,83,631.77,Cash,Completed,4.0,True
+APT-00144,2025-11-27,Marco Villanueva,Makati,Female,Haircut,37,310.4,Maya,Rescheduled,,False
+APT-00145,2025-05-25,Chloe Aquino,Pasig,Female,Hair Spa,66,771.19,Debit Card,Completed,4.4,True
+APT-00146,2025-05-26,Ryan Castillo,Makati,Male,Perming,204,1877.99,Maya,Completed,4.9,True
+APT-00147,2025-12-02,Jose Reyes,Pasig,Female,Hair Relaxing,140,2047.72,GCash,No-show,,True
+APT-00148,2026-02-21,Jose Reyes,Ortigas,Male,Hair Extension,209,3638.97,Debit Card,Completed,4.7,True
+APT-00149,2025-04-20,Patricia Lim,Pasig,Female,Perming,182,2012.6,Maya,Completed,3.4,True
+APT-00150,2026-01-14,Jose Reyes,Ortigas,Female,Full Highlights,124,3267.36,Cash,Completed,4.3,True
+APT-00151,2025-11-16,Patricia Lim,BGC,Male,Hair Extension,141,7045.22,GCash,Completed,4.4,True
+APT-00152,2026-02-06,Ryan Castillo,BGC,Male,Blow Dry,37,334.68,Credit Card,Completed,3.5,False
+APT-00153,2025-07-15,Ryan Castillo,Pasig,Female,Balayage,203,3257.27,Credit Card,Completed,4.9,True
+APT-00154,2025-10-11,Anna Dela Cruz,Ortigas,Male,Hair Extension,211,7671.47,Cash,Completed,4.7,True
+APT-00155,2026-03-02,Jose Reyes,BGC,Female,Keratin Treatment,296,3593.68,Maya,Completed,3.4,False
+APT-00156,2025-07-17,Maria Santos,Quezon City,Female,Hair Relaxing,137,2491.79,Cash,Completed,3.4,False
+APT-00157,2025-08-30,Ryan Castillo,BGC,Male,Hair Coloring,107,1983.32,GCash,Completed,4.5,False
+APT-00158,2025-03-18,Kevin Ramos,Makati,Female,Hair Spa,83,884.16,Cash,Completed,4.1,True
+APT-00159,2026-02-11,Carlo Mendoza,Ortigas,Female,Keratin Treatment,188,4057.03,Cash,Completed,3.2,False
+APT-00160,2025-05-30,Chloe Aquino,Makati,Male,Hair Extension,198,5146.19,Debit Card,Completed,3.7,False
+APT-00161,2025-09-17,Jose Reyes,Pasig,Female,Full Highlights,184,3072.82,Maya,Completed,4.1,False
+APT-00162,2026-02-08,Maria Santos,Quezon City,Female,Hair Spa,60,547.29,Maya,Completed,4.5,True
+APT-00163,2025-11-26,Ryan Castillo,BGC,Female,Hair Extension,219,3875.45,Cash,Completed,4.4,False
+APT-00164,2025-01-19,Anna Dela Cruz,BGC,Male,Perming,125,1940.16,Cash,Completed,4.6,True
+APT-00165,2025-05-10,Bianca Flores,Pasig,Female,Hair Relaxing,172,1054.93,Credit Card,Rescheduled,,True
+APT-00166,2025-08-12,Ryan Castillo,Makati,Male,Keratin Treatment,275,4723.72,Maya,Completed,3.9,False
+APT-00167,2025-05-17,Anna Dela Cruz,Quezon City,Male,Hair Relaxing,144,2201.72,Credit Card,Completed,3.2,True
+APT-00168,2025-06-06,Bianca Flores,Ortigas,Male,Scalp Treatment,52,1001.32,Cash,Completed,3.9,False
+APT-00169,2025-11-24,Marco Villanueva,Makati,Female,Hair Relaxing,97,2470.04,Maya,Completed,3.2,False
+APT-00170,2026-02-05,Chloe Aquino,BGC,Female,Hair Relaxing,106,1657.26,Cash,Completed,3.1,False
+APT-00171,2025-07-09,Patricia Lim,Pasig,Male,Hair Relaxing,99,1558.02,Cash,Completed,4.1,False
+APT-00172,2025-04-06,Ryan Castillo,Ortigas,Female,Blow Dry,32,349.71,GCash,Rescheduled,,True
+APT-00173,2026-04-15,Bianca Flores,Quezon City,Female,Keratin Treatment,205,4996.57,GCash,Rescheduled,,True
+APT-00174,2025-02-14,Jose Reyes,Quezon City,Female,Full Highlights,160,3121.03,GCash,No-show,,False
+APT-00175,2025-03-22,Jose Reyes,Pasig,Female,Toning,119,1511.81,Debit Card,Completed,4.4,True
+APT-00176,2025-05-02,Chloe Aquino,BGC,Male,Hair Relaxing,93,2185.56,Cash,Rescheduled,,False
+APT-00177,2025-11-10,Kevin Ramos,Ortigas,Female,Scalp Treatment,32,1395.82,Credit Card,Cancelled,,False
+APT-00178,2025-02-07,Marco Villanueva,Pasig,Male,Blow Dry,30,237.6,Credit Card,Cancelled,,True
+APT-00179,2025-10-10,Marco Villanueva,Pasig,Male,Hair Spa,56,947.86,Maya,Completed,4.5,True
+APT-00180,2025-03-24,Chloe Aquino,Makati,Female,Blow Dry,42,296.8,Cash,Completed,3.5,False
+APT-00181,2025-11-11,Bianca Flores,BGC,Female,Hair Coloring,154,1706.91,Debit Card,Completed,4.3,True
+APT-00182,2026-02-27,Kevin Ramos,Pasig,Female,Full Highlights,130,3227.56,Maya,Cancelled,,True
+APT-00183,2025-11-24,Kevin Ramos,Ortigas,Female,Perming,200,1545.43,GCash,Cancelled,,False
+APT-00184,2025-06-02,Bianca Flores,Quezon City,Male,Perming,208,2180.32,GCash,Cancelled,,True
+APT-00185,2025-03-15,Marco Villanueva,Quezon City,Female,Full Highlights,160,2125.16,Credit Card,Completed,4.5,False
+APT-00186,2025-08-27,Anna Dela Cruz,Ortigas,Female,Blow Dry,34,236.76,Debit Card,Completed,3.5,True
+APT-00187,2026-04-07,Bianca Flores,Quezon City,Non-binary,Haircut,40,305.89,Debit Card,Completed,4.9,False
+APT-00188,2025-09-12,Anna Dela Cruz,Quezon City,Male,Balayage,200,2057.94,Debit Card,Completed,4.0,True
+APT-00189,2026-03-28,Kevin Ramos,Ortigas,Female,Balayage,236,4107.12,Cash,Completed,3.9,True
+APT-00190,2025-07-07,Patricia Lim,BGC,Male,Hair Coloring,96,876.91,Maya,Completed,4.1,True
+APT-00191,2025-10-09,Chloe Aquino,Ortigas,Female,Hair Relaxing,169,1419.58,Cash,Completed,4.4,True
+APT-00192,2026-04-26,Jose Reyes,Quezon City,Female,Full Highlights,138,2231.21,Maya,Cancelled,,True
+APT-00193,2026-01-01,Chloe Aquino,Quezon City,Female,Hair Extension,180,4665.2,Debit Card,Completed,4.0,True
+APT-00194,2025-07-21,Chloe Aquino,BGC,Female,Hair Extension,214,7953.08,Maya,Rescheduled,,False
+APT-00195,2025-06-03,Ryan Castillo,Pasig,Male,Hair Extension,122,5374.46,Debit Card,Completed,3.7,True
+APT-00196,2025-12-02,Kevin Ramos,Ortigas,Female,Blow Dry,44,434.87,Cash,Completed,4.2,True
+APT-00197,2025-11-14,Maria Santos,Pasig,Female,Toning,84,1574.61,Credit Card,Completed,3.3,True
+APT-00198,2025-03-19,Kevin Ramos,Makati,Female,Haircut,36,394.54,GCash,Completed,3.8,False
+APT-00199,2025-12-06,Maria Santos,BGC,Female,Toning,84,1278.37,Debit Card,Completed,3.6,True
+APT-00200,2026-01-05,Chloe Aquino,Ortigas,Male,Hair Spa,89,976.52,Debit Card,Completed,3.5,False
+APT-00201,2025-06-02,Carlo Mendoza,Ortigas,Male,Balayage,240,3927.94,Debit Card,Completed,3.4,False
+APT-00202,2025-05-21,Marco Villanueva,Ortigas,Male,Hair Relaxing,163,1431.68,Debit Card,Rescheduled,,False
+APT-00203,2025-02-10,Ryan Castillo,BGC,Non-binary,Blow Dry,34,303.91,Maya,Completed,4.3,False
+APT-00204,2025-03-12,Carlo Mendoza,Pasig,Male,Balayage,225,2273.07,Maya,Rescheduled,,True
+APT-00205,2025-07-31,Maria Santos,Pasig,Female,Balayage,210,2825.73,GCash,Completed,3.2,True
+APT-00206,2025-09-01,Chloe Aquino,BGC,Male,Haircut,36,417.11,Credit Card,Completed,4.5,False
+APT-00207,2026-01-14,Bianca Flores,Makati,Female,Hair Relaxing,94,2084.68,Cash,Completed,4.8,True
+APT-00208,2026-01-19,Anna Dela Cruz,Makati,Female,Blow Dry,29,488.64,Credit Card,Cancelled,,True
+APT-00209,2025-05-26,Bianca Flores,Pasig,Non-binary,Haircut,50,409.02,Debit Card,Completed,4.1,False
+APT-00210,2025-03-25,Chloe Aquino,Quezon City,Female,Full Highlights,202,2962.24,Maya,Completed,3.5,True
+APT-00211,2025-11-09,Ryan Castillo,Ortigas,Female,Haircut,58,549.65,Debit Card,Completed,3.8,False
+APT-00212,2025-03-13,Ryan Castillo,Makati,Female,Scalp Treatment,59,1029.71,Credit Card,Completed,3.5,False
+APT-00213,2026-01-06,Carlo Mendoza,Quezon City,Female,Blow Dry,28,371.86,Maya,Rescheduled,,False
+APT-00214,2025-12-18,Carlo Mendoza,Makati,Female,Toning,117,1302.52,Cash,Completed,4.8,False
+APT-00215,2025-03-10,Jose Reyes,Ortigas,Female,Toning,89,1278.18,Maya,Completed,4.5,False
+APT-00216,2026-01-26,Chloe Aquino,Quezon City,Male,Blow Dry,44,274.24,Debit Card,Cancelled,,True
+APT-00217,2025-02-01,Marco Villanueva,Pasig,Female,Scalp Treatment,58,1345.9,Maya,Completed,4.0,True
+APT-00218,2025-10-26,Ryan Castillo,Pasig,Female,Full Highlights,185,2477.66,Credit Card,Completed,3.9,True
+APT-00219,2025-08-25,Anna Dela Cruz,Pasig,Female,Hair Spa,64,970.94,Credit Card,Completed,4.4,False
+APT-00220,2025-12-25,Maria Santos,BGC,Female,Keratin Treatment,187,2659.4,Debit Card,Completed,4.9,True
+APT-00221,2025-11-25,Maria Santos,Ortigas,Female,Hair Spa,86,1184.83,Credit Card,Completed,4.9,False
+APT-00222,2026-03-24,Marco Villanueva,Quezon City,Non-binary,Blow Dry,40,361.79,Credit Card,Completed,4.7,True
+APT-00223,2026-03-04,Chloe Aquino,Quezon City,Non-binary,Full Highlights,122,1506.95,Debit Card,Completed,5.0,False
+APT-00224,2025-08-24,Chloe Aquino,Quezon City,Female,Perming,155,2019.24,Debit Card,Completed,3.4,True
+APT-00225,2025-11-01,Patricia Lim,Pasig,Female,Haircut,49,261.75,Cash,Completed,4.3,True
+APT-00226,2026-03-19,Maria Santos,Quezon City,Female,Balayage,167,3940.16,Credit Card,Completed,4.0,False
+APT-00227,2025-06-14,Kevin Ramos,Ortigas,Male,Balayage,168,2592.26,Debit Card,Completed,5.0,True
+APT-00228,2026-01-12,Bianca Flores,Ortigas,Female,Blow Dry,40,473.47,Cash,Completed,4.4,False
+APT-00229,2025-03-18,Ryan Castillo,Quezon City,Female,Haircut,35,354.96,Debit Card,Completed,4.5,False
+APT-00230,2025-10-15,Carlo Mendoza,Ortigas,Male,Balayage,203,3031.69,GCash,Cancelled,,True
+APT-00231,2025-08-19,Carlo Mendoza,Ortigas,Female,Blow Dry,22,454.14,GCash,Completed,4.1,True
+APT-00232,2025-04-07,Bianca Flores,Quezon City,Male,Haircut,48,531.63,Debit Card,Completed,4.4,True
+APT-00233,2026-04-25,Carlo Mendoza,Ortigas,Female,Hair Spa,52,633.02,Maya,Rescheduled,,False
+APT-00234,2026-02-02,Kevin Ramos,BGC,Female,Balayage,209,2707.65,Credit Card,No-show,,False
+APT-00235,2026-02-16,Bianca Flores,Ortigas,Female,Keratin Treatment,240,4953.3,Debit Card,No-show,,False
+APT-00236,2026-01-15,Ryan Castillo,Ortigas,Male,Balayage,183,2364.81,Credit Card,Completed,4.1,False
+APT-00237,2025-05-06,Anna Dela Cruz,BGC,Female,Keratin Treatment,263,3748.25,Maya,Completed,4.9,False
+APT-00238,2025-03-28,Marco Villanueva,Quezon City,Male,Keratin Treatment,249,2849.9,Credit Card,Completed,4.0,True
+APT-00239,2026-03-08,Maria Santos,Makati,Female,Scalp Treatment,32,1167.63,Cash,Cancelled,,True
+APT-00240,2025-12-08,Carlo Mendoza,Pasig,Female,Haircut,59,576.87,Credit Card,Completed,4.0,False
+APT-00241,2026-01-05,Maria Santos,Pasig,Female,Haircut,39,346.16,Debit Card,Completed,3.0,False
+APT-00242,2025-09-27,Jose Reyes,Makati,Female,Full Highlights,165,2004.84,Debit Card,Completed,3.5,False
+APT-00243,2025-04-26,Ryan Castillo,Quezon City,Non-binary,Hair Coloring,100,1309.96,Credit Card,Completed,4.3,True
+APT-00244,2025-01-05,Patricia Lim,Quezon City,Female,Hair Coloring,100,1994.84,Credit Card,Completed,4.0,False
+APT-00245,2025-04-28,Ryan Castillo,Pasig,Male,Perming,208,1817.13,Cash,No-show,,False
+APT-00246,2025-01-17,Maria Santos,Makati,Female,Keratin Treatment,288,2948.39,Maya,No-show,,False
+APT-00247,2025-07-23,Carlo Mendoza,Pasig,Male,Haircut,39,575.11,GCash,Cancelled,,True
+APT-00248,2025-07-16,Carlo Mendoza,Pasig,Female,Hair Extension,137,6778.05,Credit Card,Completed,4.6,True
+APT-00249,2025-06-24,Ryan Castillo,Makati,Male,Scalp Treatment,49,1144.65,Cash,Completed,4.9,False
+APT-00250,2026-04-27,Maria Santos,Ortigas,Female,Hair Relaxing,113,1563.14,Credit Card,Completed,4.4,False
+APT-00251,2025-03-20,Kevin Ramos,Ortigas,Female,Hair Coloring,171,1446.0,GCash,Completed,3.3,False
+APT-00252,2025-07-04,Ryan Castillo,Makati,Female,Hair Relaxing,103,2142.02,Cash,Completed,3.3,True
+APT-00253,2025-02-15,Marco Villanueva,Pasig,Female,Blow Dry,22,306.17,Debit Card,Completed,4.2,False
+APT-00254,2026-04-07,Maria Santos,Ortigas,Female,Blow Dry,27,367.86,Credit Card,Completed,4.1,True
+APT-00255,2025-03-16,Patricia Lim,BGC,Female,Perming,175,1594.9,GCash,Completed,3.6,False
+APT-00256,2025-09-11,Jose Reyes,Ortigas,Male,Hair Spa,57,915.66,Maya,Rescheduled,,False
+APT-00257,2025-11-14,Anna Dela Cruz,Ortigas,Female,Hair Coloring,132,1445.81,Cash,Rescheduled,,False
+APT-00258,2025-12-22,Patricia Lim,Pasig,Female,Hair Relaxing,130,1301.28,GCash,Completed,3.4,False
+APT-00259,2025-05-24,Bianca Flores,Quezon City,Female,Hair Relaxing,140,2224.74,Debit Card,Cancelled,,False
+APT-00260,2026-01-29,Kevin Ramos,BGC,Female,Hair Coloring,149,1735.17,Debit Card,Rescheduled,,True
+APT-00261,2025-06-05,Bianca Flores,Makati,Female,Hair Spa,87,669.41,Credit Card,Completed,3.3,False
+APT-00262,2025-09-17,Jose Reyes,Quezon City,Female,Blow Dry,42,477.05,Debit Card,Completed,3.8,True
+APT-00263,2025-12-07,Chloe Aquino,Pasig,Female,Hair Relaxing,172,1532.51,Cash,Completed,4.2,False
+APT-00264,2026-01-18,Patricia Lim,Makati,Female,Hair Relaxing,164,1778.2,Cash,Completed,4.4,True
+APT-00265,2025-09-14,Ryan Castillo,Quezon City,Female,Hair Spa,46,605.52,Credit Card,Cancelled,,False
+APT-00266,2025-03-14,Bianca Flores,Quezon City,Male,Hair Coloring,133,1392.16,Cash,Completed,3.9,True
+APT-00267,2025-08-20,Marco Villanueva,Ortigas,Male,Scalp Treatment,39,887.02,Credit Card,Completed,3.1,True
+APT-00268,2025-09-22,Ryan Castillo,Makati,Male,Haircut,35,311.06,GCash,No-show,,False
+APT-00269,2025-04-06,Patricia Lim,Quezon City,Female,Scalp Treatment,43,1176.43,GCash,Cancelled,,False
+APT-00270,2025-12-27,Kevin Ramos,BGC,Female,Haircut,38,325.18,Credit Card,Completed,4.5,True
+APT-00271,2025-02-28,Jose Reyes,Pasig,Female,Hair Extension,230,4311.77,GCash,Completed,4.0,False
+APT-00272,2026-03-09,Patricia Lim,Pasig,Female,Hair Extension,142,5289.3,Credit Card,Completed,4.6,False
+APT-00273,2025-03-01,Kevin Ramos,Makati,Female,Hair Extension,208,3915.22,GCash,Completed,3.3,False
+APT-00274,2025-11-22,Kevin Ramos,BGC,Female,Blow Dry,40,361.21,Debit Card,Completed,4.9,True
+APT-00275,2025-08-19,Anna Dela Cruz,Quezon City,Female,Scalp Treatment,57,1157.47,Maya,Completed,3.7,True
+APT-00276,2025-09-11,Anna Dela Cruz,BGC,Female,Hair Spa,76,786.39,Credit Card,Rescheduled,,False
+APT-00277,2026-01-25,Marco Villanueva,Quezon City,Female,Toning,62,1020.53,GCash,Completed,3.5,False
+APT-00278,2025-02-28,Marco Villanueva,Pasig,Female,Full Highlights,189,2035.78,Credit Card,Completed,4.6,False
+APT-00279,2026-01-12,Maria Santos,Quezon City,Female,Scalp Treatment,54,1347.06,Debit Card,Completed,3.5,True
+APT-00280,2026-02-02,Bianca Flores,Ortigas,Non-binary,Hair Spa,58,1068.32,Cash,Completed,4.6,False
+APT-00281,2026-02-21,Kevin Ramos,Quezon City,Male,Toning,63,1006.94,GCash,Completed,4.1,False
+APT-00282,2025-10-21,Chloe Aquino,BGC,Female,Hair Extension,229,4336.72,Maya,Rescheduled,,True
+APT-00283,2026-03-20,Patricia Lim,Makati,Female,Full Highlights,138,1765.38,Maya,No-show,,False
+APT-00284,2025-08-01,Patricia Lim,Quezon City,Female,Balayage,159,2937.93,GCash,Completed,4.3,True
+APT-00285,2025-10-25,Chloe Aquino,Ortigas,Female,Blow Dry,44,200.74,Maya,Completed,4.7,True
+APT-00286,2025-08-08,Marco Villanueva,Ortigas,Female,Toning,91,1624.85,Cash,Cancelled,,False
+APT-00287,2025-09-06,Bianca Flores,Ortigas,Female,Hair Relaxing,177,2182.46,Debit Card,Completed,4.5,True
+APT-00288,2025-08-22,Marco Villanueva,Makati,Female,Hair Coloring,144,801.15,Cash,No-show,,True
+APT-00289,2025-02-17,Anna Dela Cruz,Ortigas,Male,Toning,76,1454.59,GCash,No-show,,True
+APT-00290,2026-01-22,Anna Dela Cruz,Makati,Male,Hair Relaxing,173,1351.22,Credit Card,Completed,3.2,True
+APT-00291,2025-12-15,Carlo Mendoza,Quezon City,Female,Haircut,30,405.77,Cash,Completed,4.4,True
+APT-00292,2026-02-17,Anna Dela Cruz,Quezon City,Female,Blow Dry,30,230.73,Cash,Completed,3.7,False
+APT-00293,2025-11-09,Patricia Lim,BGC,Female,Full Highlights,176,2800.04,GCash,Completed,3.7,True
+APT-00294,2025-02-14,Anna Dela Cruz,Quezon City,Male,Perming,137,2844.89,Debit Card,Completed,4.5,False
+APT-00295,2025-05-08,Patricia Lim,Ortigas,Female,Hair Relaxing,166,1830.09,GCash,Completed,4.4,False
+APT-00296,2026-01-18,Maria Santos,Ortigas,Female,Toning,101,1191.75,GCash,Completed,3.1,True
+APT-00297,2025-09-28,Patricia Lim,Makati,Female,Hair Spa,45,1122.11,GCash,Completed,5.0,False
+APT-00298,2026-01-26,Patricia Lim,Pasig,Male,Full Highlights,129,2442.03,Credit Card,Completed,3.0,True
+APT-00299,2025-07-23,Bianca Flores,BGC,Male,Haircut,50,427.31,Cash,No-show,,False
+APT-00300,2025-02-12,Patricia Lim,Makati,Female,Blow Dry,36,292.97,Debit Card,Completed,4.8,True
+APT-00301,2025-12-15,Ryan Castillo,Quezon City,Male,Scalp Treatment,39,1178.84,Debit Card,Completed,4.4,True
+APT-00302,2025-01-29,Carlo Mendoza,Makati,Female,Haircut,53,358.25,Credit Card,Completed,4.3,True
+APT-00303,2025-09-25,Maria Santos,BGC,Non-binary,Hair Coloring,123,1679.28,Cash,Completed,3.3,True
+APT-00304,2025-09-26,Bianca Flores,Makati,Female,Toning,105,863.87,Cash,Completed,5.0,True
+APT-00305,2025-03-27,Marco Villanueva,Pasig,Male,Hair Spa,61,757.38,Maya,Completed,4.5,True
+APT-00306,2025-01-24,Chloe Aquino,Makati,Female,Balayage,199,3179.41,Cash,No-show,,True
+APT-00307,2026-04-14,Maria Santos,Pasig,Female,Full Highlights,154,2940.58,Credit Card,Completed,4.7,False
+APT-00308,2025-01-24,Chloe Aquino,Makati,Female,Hair Coloring,98,2421.93,GCash,Completed,4.8,False
+APT-00309,2025-05-30,Ryan Castillo,Makati,Female,Keratin Treatment,218,3909.52,Debit Card,Completed,4.5,True
+APT-00310,2026-01-11,Ryan Castillo,Pasig,Male,Hair Spa,60,1130.31,Credit Card,Rescheduled,,True
+APT-00311,2025-12-22,Patricia Lim,Makati,Female,Haircut,60,557.02,GCash,Completed,3.7,False
+APT-00312,2025-09-09,Bianca Flores,Makati,Female,Toning,69,1761.19,GCash,Completed,4.4,True
+APT-00313,2026-01-18,Carlo Mendoza,Pasig,Female,Haircut,33,279.72,Credit Card,Completed,4.0,False
+APT-00314,2025-05-02,Kevin Ramos,Pasig,Non-binary,Hair Coloring,130,1295.85,Cash,Completed,4.9,False
+APT-00315,2025-04-14,Ryan Castillo,Ortigas,Female,Toning,109,936.11,Credit Card,Completed,4.2,True
+APT-00316,2025-07-03,Anna Dela Cruz,Quezon City,Female,Hair Coloring,116,2439.88,Credit Card,Completed,3.9,False
+APT-00317,2025-12-27,Jose Reyes,Makati,Female,Keratin Treatment,185,4242.19,GCash,Cancelled,,True
+APT-00318,2025-01-26,Anna Dela Cruz,Makati,Female,Hair Relaxing,123,2015.78,GCash,Rescheduled,,True
+APT-00319,2025-08-25,Patricia Lim,Quezon City,Female,Haircut,55,285.67,Debit Card,Completed,3.3,True
+APT-00320,2025-11-19,Carlo Mendoza,BGC,Female,Haircut,32,578.15,GCash,Cancelled,,False
+APT-00321,2025-03-07,Maria Santos,Makati,Female,Hair Coloring,132,956.36,GCash,No-show,,True
+APT-00322,2026-01-06,Marco Villanueva,Makati,Female,Haircut,30,388.25,GCash,No-show,,False
+APT-00323,2025-05-24,Patricia Lim,BGC,Female,Perming,139,2169.02,Maya,Completed,3.1,True
+APT-00324,2025-02-14,Bianca Flores,Quezon City,Female,Perming,137,1919.66,Credit Card,No-show,,False
+APT-00325,2026-02-05,Chloe Aquino,BGC,Non-binary,Balayage,211,3783.43,Debit Card,Cancelled,,False
+APT-00326,2025-06-13,Kevin Ramos,Pasig,Female,Hair Relaxing,93,1895.67,Maya,Completed,4.8,False
+APT-00327,2025-03-23,Marco Villanueva,Pasig,Non-binary,Haircut,51,285.05,Maya,Cancelled,,True
+APT-00328,2025-07-18,Chloe Aquino,Makati,Non-binary,Keratin Treatment,287,3387.01,GCash,Completed,5.0,True
+APT-00329,2026-04-13,Carlo Mendoza,Pasig,Male,Full Highlights,210,2683.12,Maya,Cancelled,,False
+APT-00330,2026-02-19,Kevin Ramos,BGC,Male,Hair Extension,183,7408.13,Debit Card,Rescheduled,,False
+APT-00331,2025-01-11,Marco Villanueva,Makati,Female,Full Highlights,120,2552.9,Cash,Completed,3.7,True
+APT-00332,2025-12-27,Ryan Castillo,BGC,Female,Full Highlights,134,3334.45,Maya,Completed,4.7,False
+APT-00333,2025-03-11,Ryan Castillo,Quezon City,Female,Hair Coloring,145,2458.96,Debit Card,Completed,4.6,False
+APT-00334,2026-02-07,Ryan Castillo,BGC,Male,Perming,205,2035.24,Debit Card,Completed,4.2,True
+APT-00335,2025-12-26,Bianca Flores,Ortigas,Female,Blow Dry,32,484.61,GCash,Completed,4.7,True
+APT-00336,2026-04-25,Kevin Ramos,Ortigas,Female,Full Highlights,162,2492.37,Debit Card,Completed,4.5,True
+APT-00337,2026-01-09,Ryan Castillo,BGC,Male,Hair Relaxing,147,2329.98,Cash,Cancelled,,True
+APT-00338,2026-01-04,Carlo Mendoza,BGC,Male,Keratin Treatment,229,2503.2,Cash,Completed,3.9,False
+APT-00339,2026-03-01,Patricia Lim,Quezon City,Female,Full Highlights,193,2458.98,Credit Card,Completed,4.3,True
+APT-00340,2025-02-23,Marco Villanueva,Makati,Female,Full Highlights,141,1648.4,Cash,Completed,4.8,True
+APT-00341,2026-04-03,Jose Reyes,Pasig,Non-binary,Toning,61,1282.74,Cash,Completed,3.9,True
+APT-00342,2025-04-08,Patricia Lim,BGC,Female,Hair Extension,190,5046.4,Cash,Completed,4.4,False
+APT-00343,2025-10-09,Bianca Flores,Ortigas,Female,Perming,139,2759.78,GCash,Completed,3.1,True
+APT-00344,2025-04-16,Jose Reyes,Ortigas,Female,Blow Dry,29,251.25,Debit Card,Completed,5.0,False
+APT-00345,2025-02-16,Bianca Flores,Quezon City,Male,Hair Coloring,139,1891.17,Credit Card,Completed,3.4,False
+APT-00346,2025-04-26,Anna Dela Cruz,Quezon City,Female,Hair Relaxing,162,2255.62,Cash,Completed,3.1,True
+APT-00347,2025-10-11,Ryan Castillo,Pasig,Female,Hair Coloring,139,903.67,Credit Card,Rescheduled,,False
+APT-00348,2026-04-08,Marco Villanueva,Pasig,Female,Scalp Treatment,31,1368.55,GCash,Completed,4.0,True
+APT-00349,2025-03-06,Marco Villanueva,BGC,Male,Hair Coloring,100,872.55,GCash,Rescheduled,,False
+APT-00350,2026-02-18,Anna Dela Cruz,Pasig,Male,Balayage,199,2167.53,Maya,Completed,4.1,False
+APT-00351,2025-09-25,Chloe Aquino,Quezon City,Female,Keratin Treatment,194,4454.21,Cash,Cancelled,,False
+APT-00352,2025-02-21,Anna Dela Cruz,Pasig,Non-binary,Full Highlights,192,3349.86,Debit Card,Completed,4.6,False
+APT-00353,2025-11-08,Ryan Castillo,Quezon City,Female,Scalp Treatment,35,1025.74,Maya,Completed,3.6,True
+APT-00354,2025-12-20,Kevin Ramos,Quezon City,Male,Hair Extension,215,4187.9,Cash,Completed,4.0,False
+APT-00355,2026-03-16,Maria Santos,Ortigas,Male,Hair Relaxing,102,2044.27,Maya,Completed,4.9,True
+APT-00356,2025-11-27,Bianca Flores,Quezon City,Female,Full Highlights,176,1678.57,Maya,Completed,3.4,False
+APT-00357,2025-03-23,Marco Villanueva,Pasig,Female,Toning,105,865.62,Maya,Cancelled,,False
+APT-00358,2025-04-13,Chloe Aquino,Pasig,Male,Full Highlights,151,3173.95,Cash,Completed,3.1,True
+APT-00359,2025-11-22,Carlo Mendoza,Ortigas,Female,Hair Relaxing,177,2384.61,Maya,Cancelled,,True
+APT-00360,2025-08-31,Ryan Castillo,Quezon City,Non-binary,Balayage,194,3467.2,Debit Card,Completed,3.7,False
+APT-00361,2025-10-20,Jose Reyes,Ortigas,Female,Toning,73,1579.83,Cash,Completed,4.7,True
+APT-00362,2026-01-28,Carlo Mendoza,Ortigas,Male,Perming,180,2523.3,Credit Card,Completed,4.8,True
+APT-00363,2025-12-31,Maria Santos,BGC,Male,Hair Extension,202,7835.12,Maya,Completed,3.6,False
+APT-00364,2026-02-27,Marco Villanueva,Ortigas,Male,Hair Relaxing,164,1935.41,GCash,Completed,3.2,False
+APT-00365,2025-02-02,Kevin Ramos,Pasig,Female,Scalp Treatment,38,902.66,Maya,Completed,4.3,False
+APT-00366,2025-01-30,Bianca Flores,BGC,Female,Keratin Treatment,282,4513.57,GCash,Completed,4.6,False
+APT-00367,2025-05-13,Ryan Castillo,BGC,Non-binary,Perming,171,2860.37,Cash,Completed,3.8,True
+APT-00368,2025-10-01,Kevin Ramos,BGC,Female,Hair Extension,180,6191.57,Maya,Completed,4.8,False
+APT-00369,2025-03-07,Bianca Flores,BGC,Female,Scalp Treatment,53,1266.83,Debit Card,Completed,4.6,True
+APT-00370,2025-06-07,Ryan Castillo,Makati,Male,Perming,162,2130.71,GCash,Completed,3.7,False
+APT-00371,2026-04-29,Jose Reyes,Quezon City,Female,Hair Spa,75,934.46,Cash,No-show,,True
+APT-00372,2026-03-14,Jose Reyes,Quezon City,Female,Scalp Treatment,36,735.7,Debit Card,Completed,3.7,False
+APT-00373,2025-04-01,Ryan Castillo,BGC,Female,Full Highlights,127,2126.83,Cash,Completed,3.0,False
+APT-00374,2025-02-15,Anna Dela Cruz,Pasig,Male,Balayage,205,2323.51,GCash,Completed,4.3,False
+APT-00375,2025-07-11,Marco Villanueva,Quezon City,Female,Blow Dry,30,485.02,Cash,Completed,4.5,True
+APT-00376,2025-03-08,Maria Santos,BGC,Female,Haircut,46,285.95,GCash,Completed,4.2,True
+APT-00377,2025-09-26,Maria Santos,Ortigas,Female,Hair Coloring,177,1374.32,Maya,Completed,5.0,False
+APT-00378,2025-07-26,Ryan Castillo,BGC,Male,Hair Spa,59,513.39,GCash,Rescheduled,,True
+APT-00379,2025-11-30,Maria Santos,Pasig,Female,Balayage,198,3980.32,Debit Card,Completed,4.8,False
+APT-00380,2025-12-01,Kevin Ramos,Makati,Male,Scalp Treatment,31,1352.51,Debit Card,Rescheduled,,True
+APT-00381,2025-03-20,Marco Villanueva,Quezon City,Female,Blow Dry,41,261.65,Cash,Completed,4.3,False
+APT-00382,2025-08-03,Jose Reyes,Pasig,Male,Blow Dry,23,449.2,Maya,Completed,4.0,True
+APT-00383,2025-05-15,Jose Reyes,Makati,Female,Keratin Treatment,205,4578.75,Credit Card,Completed,3.7,False
+APT-00384,2026-04-23,Anna Dela Cruz,Makati,Female,Keratin Treatment,210,3701.66,Debit Card,Completed,3.0,True
+APT-00385,2025-02-08,Kevin Ramos,Quezon City,Male,Hair Coloring,102,2030.06,GCash,Rescheduled,,False
+APT-00386,2026-02-21,Carlo Mendoza,Quezon City,Female,Perming,125,1762.05,Maya,Completed,4.7,False
+APT-00387,2025-01-24,Ryan Castillo,Quezon City,Male,Perming,137,1514.51,Cash,Completed,4.3,True
+APT-00388,2025-07-10,Ryan Castillo,Quezon City,Male,Hair Relaxing,113,2222.45,Debit Card,Completed,3.2,False
+APT-00389,2026-02-13,Bianca Flores,Quezon City,Female,Hair Spa,53,616.75,Credit Card,Cancelled,,True
+APT-00390,2025-08-13,Jose Reyes,Quezon City,Female,Full Highlights,168,1862.52,Debit Card,Completed,4.6,True
+APT-00391,2025-01-24,Anna Dela Cruz,Quezon City,Female,Perming,203,1595.0,Credit Card,Completed,3.6,True
+APT-00392,2025-08-10,Ryan Castillo,Pasig,Female,Perming,151,2492.57,Debit Card,Completed,4.0,False
+APT-00393,2025-09-16,Chloe Aquino,Pasig,Male,Full Highlights,183,3197.69,Cash,Completed,4.7,True
+APT-00394,2025-04-25,Ryan Castillo,BGC,Female,Hair Spa,69,885.35,Maya,Rescheduled,,False
+APT-00395,2026-03-15,Jose Reyes,Quezon City,Female,Balayage,190,3246.14,Credit Card,Cancelled,,True
+APT-00396,2025-01-01,Maria Santos,Makati,Female,Hair Spa,83,1078.14,Credit Card,Completed,4.9,False
+APT-00397,2025-01-28,Chloe Aquino,BGC,Female,Scalp Treatment,57,1334.93,Credit Card,Rescheduled,,False
+APT-00398,2026-01-02,Chloe Aquino,Pasig,Male,Hair Relaxing,102,1678.8,Debit Card,Completed,4.5,True
+APT-00399,2025-02-24,Ryan Castillo,Ortigas,Female,Haircut,35,266.02,Maya,Completed,4.0,False
+APT-00400,2025-07-21,Bianca Flores,Pasig,Male,Hair Coloring,114,1166.5,GCash,Completed,4.4,True
+APT-00401,2025-12-04,Maria Santos,Pasig,Female,Blow Dry,36,376.79,Cash,Cancelled,,True
+APT-00402,2025-10-27,Maria Santos,Pasig,Female,Hair Spa,77,838.05,Cash,Completed,4.6,True
+APT-00403,2025-11-07,Kevin Ramos,BGC,Male,Toning,92,1682.7,GCash,Completed,4.8,False
+APT-00404,2025-08-20,Carlo Mendoza,Ortigas,Non-binary,Hair Extension,137,7023.98,Credit Card,Rescheduled,,False
+APT-00405,2026-04-24,Chloe Aquino,Ortigas,Male,Hair Extension,147,5767.91,Debit Card,No-show,,True
+APT-00406,2025-12-30,Kevin Ramos,Ortigas,Female,Balayage,172,3625.22,Maya,No-show,,False
+APT-00407,2025-12-08,Jose Reyes,Ortigas,Female,Toning,103,1510.12,Debit Card,Completed,4.5,False
+APT-00408,2025-12-10,Maria Santos,Pasig,Female,Blow Dry,28,216.98,Cash,Completed,4.5,True
+APT-00409,2026-01-21,Bianca Flores,BGC,Female,Keratin Treatment,225,3852.93,Cash,Completed,4.6,True
+APT-00410,2026-02-12,Chloe Aquino,BGC,Female,Hair Extension,156,6994.11,Debit Card,Completed,4.4,True
+APT-00411,2026-01-16,Patricia Lim,Quezon City,Female,Blow Dry,39,275.4,Maya,Rescheduled,,False
+APT-00412,2026-01-07,Ryan Castillo,Pasig,Female,Balayage,187,4410.72,Debit Card,Completed,3.9,True
+APT-00413,2025-10-12,Anna Dela Cruz,Pasig,Female,Full Highlights,140,2028.48,Cash,Completed,4.2,False
+APT-00414,2025-11-02,Ryan Castillo,Quezon City,Male,Haircut,59,267.8,GCash,Completed,4.3,False
+APT-00415,2025-09-27,Kevin Ramos,Pasig,Male,Hair Spa,56,653.97,Maya,Completed,4.0,True
+APT-00416,2025-04-20,Chloe Aquino,Pasig,Female,Blow Dry,30,399.0,Credit Card,Completed,3.7,True
+APT-00417,2025-01-05,Chloe Aquino,Quezon City,Non-binary,Hair Extension,164,3573.61,Debit Card,Cancelled,,False
+APT-00418,2025-06-14,Kevin Ramos,Pasig,Male,Balayage,164,2953.43,GCash,Rescheduled,,False
+APT-00419,2025-07-11,Chloe Aquino,Ortigas,Male,Keratin Treatment,245,3785.77,Cash,No-show,,False
+APT-00420,2025-02-19,Maria Santos,Ortigas,Female,Hair Spa,79,617.18,GCash,Completed,4.1,True
+APT-00421,2026-03-26,Carlo Mendoza,Quezon City,Male,Balayage,205,4440.56,Cash,Completed,4.3,True
+APT-00422,2025-02-07,Anna Dela Cruz,Makati,Female,Toning,110,854.27,Credit Card,Completed,3.5,True
+APT-00423,2025-08-10,Carlo Mendoza,Ortigas,Female,Hair Extension,169,4582.02,Credit Card,Completed,4.3,True
+APT-00424,2025-07-03,Kevin Ramos,Makati,Male,Perming,133,2892.07,Debit Card,Completed,3.6,False
+APT-00425,2025-01-16,Jose Reyes,Ortigas,Male,Hair Extension,188,5369.94,Credit Card,Completed,3.4,False
+APT-00426,2026-02-12,Bianca Flores,BGC,Male,Scalp Treatment,50,1380.43,Maya,Completed,3.7,True
+APT-00427,2025-07-21,Chloe Aquino,BGC,Female,Scalp Treatment,60,1083.44,Cash,Completed,3.2,True
+APT-00428,2025-03-14,Ryan Castillo,BGC,Male,Toning,74,960.95,Credit Card,No-show,,False
+APT-00429,2026-04-23,Jose Reyes,BGC,Male,Balayage,220,4475.19,Debit Card,No-show,,False
+APT-00430,2025-04-12,Chloe Aquino,Makati,Female,Perming,182,2588.38,Maya,Completed,4.9,False
+APT-00431,2025-06-12,Carlo Mendoza,Makati,Male,Full Highlights,162,2471.72,Maya,Completed,4.2,False
+APT-00432,2025-08-08,Kevin Ramos,BGC,Male,Toning,80,968.64,Debit Card,Completed,3.5,True
+APT-00433,2026-03-26,Patricia Lim,Ortigas,Male,Toning,88,1279.95,Maya,Completed,3.7,False
+APT-00434,2025-05-24,Chloe Aquino,Makati,Female,Hair Spa,53,1101.1,GCash,Completed,4.8,True
+APT-00435,2026-02-21,Jose Reyes,Makati,Female,Keratin Treatment,231,3954.73,Cash,Cancelled,,True
+APT-00436,2025-12-01,Chloe Aquino,Ortigas,Female,Haircut,41,521.32,Debit Card,No-show,,False
+APT-00437,2025-07-23,Kevin Ramos,Ortigas,Female,Balayage,151,2909.66,GCash,Completed,4.3,True
+APT-00438,2025-12-04,Anna Dela Cruz,Quezon City,Male,Scalp Treatment,34,1384.98,GCash,Completed,4.5,False
+APT-00439,2025-04-30,Maria Santos,BGC,Female,Hair Relaxing,116,1064.21,Credit Card,Completed,4.0,False
+APT-00440,2025-02-22,Marco Villanueva,Quezon City,Female,Blow Dry,36,411.12,Cash,Completed,4.3,False
+APT-00441,2025-07-13,Bianca Flores,Pasig,Female,Toning,101,1165.3,Debit Card,Completed,4.8,True
+APT-00442,2026-03-21,Bianca Flores,Quezon City,Female,Scalp Treatment,55,910.53,GCash,Completed,4.0,True
+APT-00443,2025-05-24,Anna Dela Cruz,Quezon City,Female,Scalp Treatment,35,790.37,GCash,Completed,3.3,True
+APT-00444,2025-09-03,Carlo Mendoza,Quezon City,Female,Perming,195,2218.53,Maya,Completed,3.3,False
+APT-00445,2025-11-19,Carlo Mendoza,Makati,Female,Haircut,58,429.42,GCash,Completed,4.1,True
+APT-00446,2025-10-16,Bianca Flores,BGC,Female,Full Highlights,204,2775.25,Debit Card,Rescheduled,,False
+APT-00447,2025-03-29,Carlo Mendoza,Quezon City,Male,Hair Coloring,142,1172.92,Debit Card,Rescheduled,,True
+APT-00448,2025-06-25,Anna Dela Cruz,Pasig,Male,Hair Extension,196,7611.76,Debit Card,Completed,4.2,True
+APT-00449,2026-04-11,Patricia Lim,BGC,Female,Blow Dry,33,351.31,Cash,Completed,4.7,True
+APT-00450,2025-09-15,Marco Villanueva,Pasig,Male,Full Highlights,131,3004.77,Debit Card,Completed,4.0,True
+APT-00451,2025-01-23,Chloe Aquino,Makati,Female,Hair Extension,174,6488.21,Credit Card,Completed,3.5,False
+APT-00452,2025-09-02,Ryan Castillo,Pasig,Female,Blow Dry,22,429.76,Debit Card,Completed,3.6,False
+APT-00453,2025-01-04,Carlo Mendoza,Makati,Female,Keratin Treatment,206,3437.57,Cash,Completed,4.4,False
+APT-00454,2025-05-14,Ryan Castillo,Makati,Female,Blow Dry,33,456.49,GCash,Completed,4.1,False
+APT-00455,2025-04-02,Patricia Lim,BGC,Female,Perming,191,2055.32,Credit Card,Completed,4.0,False
+APT-00456,2026-01-18,Ryan Castillo,Quezon City,Male,Hair Extension,220,4148.86,GCash,No-show,,True
+APT-00457,2025-11-11,Carlo Mendoza,Pasig,Male,Hair Coloring,180,1985.0,Credit Card,Cancelled,,True
+APT-00458,2025-11-04,Patricia Lim,Makati,Female,Full Highlights,128,2370.75,Cash,Cancelled,,False
+APT-00459,2025-07-25,Ryan Castillo,Makati,Female,Balayage,216,3534.91,Debit Card,Completed,3.6,True
+APT-00460,2026-02-16,Marco Villanueva,Quezon City,Male,Full Highlights,144,2536.31,Cash,Completed,3.1,True
+APT-00461,2025-03-22,Anna Dela Cruz,Makati,Female,Hair Extension,155,3434.21,Maya,Completed,4.6,False
+APT-00462,2025-12-27,Patricia Lim,Quezon City,Female,Perming,131,1602.93,Debit Card,Completed,4.1,False
+APT-00463,2025-07-26,Bianca Flores,BGC,Female,Hair Relaxing,123,1862.36,Debit Card,Rescheduled,,True
+APT-00464,2026-04-30,Chloe Aquino,Makati,Female,Blow Dry,36,235.1,Debit Card,Completed,4.9,False
+APT-00465,2025-06-23,Marco Villanueva,Quezon City,Female,Toning,89,1761.24,Debit Card,Completed,4.4,True
+APT-00466,2025-04-23,Jose Reyes,Ortigas,Male,Hair Spa,59,973.84,Cash,Completed,4.6,False
+APT-00467,2025-05-28,Chloe Aquino,Pasig,Female,Hair Relaxing,176,1139.51,Cash,Completed,4.5,False
+APT-00468,2025-10-21,Chloe Aquino,BGC,Female,Hair Coloring,177,1257.43,Credit Card,Completed,4.9,True
+APT-00469,2025-04-14,Carlo Mendoza,BGC,Female,Hair Spa,84,1084.46,GCash,No-show,,False
+APT-00470,2025-11-11,Jose Reyes,Makati,Male,Full Highlights,189,1513.25,Cash,Completed,4.9,False
+APT-00471,2025-10-22,Kevin Ramos,Ortigas,Male,Hair Relaxing,152,2303.15,Credit Card,No-show,,True
+APT-00472,2025-09-27,Bianca Flores,Quezon City,Female,Scalp Treatment,45,1319.34,GCash,Cancelled,,True
+APT-00473,2025-09-23,Ryan Castillo,Quezon City,Female,Scalp Treatment,52,1014.06,GCash,Completed,3.0,True
+APT-00474,2025-04-06,Kevin Ramos,Makati,Male,Blow Dry,27,364.57,Maya,Completed,3.5,False
+APT-00475,2025-07-10,Anna Dela Cruz,Quezon City,Male,Hair Relaxing,141,1547.62,Credit Card,Completed,3.6,True
+APT-00476,2026-02-16,Anna Dela Cruz,Pasig,Male,Hair Extension,175,4179.03,GCash,Cancelled,,False
+APT-00477,2025-09-13,Anna Dela Cruz,BGC,Female,Balayage,230,2336.18,Credit Card,Cancelled,,False
+APT-00478,2025-02-20,Bianca Flores,Ortigas,Female,Hair Spa,48,983.38,Debit Card,No-show,,True
+APT-00479,2025-07-04,Marco Villanueva,Makati,Female,Keratin Treatment,299,3900.88,Credit Card,Completed,4.6,False
+APT-00480,2025-04-12,Patricia Lim,Makati,Non-binary,Haircut,50,451.9,Maya,No-show,,True
+APT-00481,2026-04-01,Ryan Castillo,Ortigas,Male,Keratin Treatment,258,2696.02,Debit Card,Completed,3.6,True
+APT-00482,2025-02-06,Ryan Castillo,Quezon City,Male,Full Highlights,163,1658.22,Debit Card,Completed,3.5,False
+APT-00483,2025-08-16,Bianca Flores,Ortigas,Female,Perming,166,2671.46,Debit Card,Completed,4.5,False
+APT-00484,2025-05-09,Anna Dela Cruz,BGC,Female,Blow Dry,42,482.13,Cash,Completed,4.5,True
+APT-00485,2025-10-08,Patricia Lim,Makati,Male,Full Highlights,170,1607.65,Cash,Completed,4.0,True
+APT-00486,2025-07-19,Bianca Flores,Pasig,Male,Hair Coloring,121,1325.93,GCash,Completed,4.5,False
+APT-00487,2025-12-06,Anna Dela Cruz,BGC,Female,Perming,161,2035.26,Debit Card,Cancelled,,False
+APT-00488,2025-12-24,Chloe Aquino,Ortigas,Non-binary,Hair Spa,82,877.5,Debit Card,Completed,4.2,False
+APT-00489,2025-02-15,Chloe Aquino,Ortigas,Female,Scalp Treatment,41,997.67,Maya,Completed,3.8,True
+APT-00490,2025-06-26,Maria Santos,Makati,Male,Keratin Treatment,248,3216.91,Debit Card,Cancelled,,True
+APT-00491,2025-05-30,Marco Villanueva,Quezon City,Female,Toning,110,1397.0,Maya,Completed,3.0,False
+APT-00492,2026-01-13,Patricia Lim,Pasig,Female,Balayage,198,3614.98,Credit Card,Completed,3.4,True
+APT-00493,2025-05-26,Carlo Mendoza,Pasig,Male,Blow Dry,37,394.54,Debit Card,Cancelled,,False
+APT-00494,2025-08-22,Carlo Mendoza,Makati,Female,Blow Dry,28,385.32,GCash,Completed,4.4,False
+APT-00495,2025-04-06,Ryan Castillo,Makati,Female,Balayage,186,4430.83,GCash,Completed,3.5,False
+APT-00496,2025-06-25,Maria Santos,BGC,Female,Toning,110,1220.24,Cash,Completed,4.6,False
+APT-00497,2025-01-29,Maria Santos,Ortigas,Non-binary,Hair Spa,70,686.55,Cash,Cancelled,,True
+APT-00498,2025-07-15,Marco Villanueva,BGC,Female,Scalp Treatment,33,1345.43,GCash,No-show,,True
+APT-00499,2025-02-18,Marco Villanueva,BGC,Male,Blow Dry,26,356.34,Cash,Completed,3.9,False
+APT-00500,2025-11-23,Anna Dela Cruz,Makati,Female,Hair Relaxing,136,1448.22,Debit Card,Completed,4.8,True
+APT-00501,2025-10-27,Carlo Mendoza,Quezon City,Male,Hair Coloring,121,1003.4,Maya,Completed,3.0,True
+APT-00502,2025-03-22,Marco Villanueva,Pasig,Female,Hair Extension,207,5499.6,GCash,Completed,4.2,True
+APT-00503,2025-04-30,Ryan Castillo,BGC,Female,Haircut,47,360.86,Debit Card,Cancelled,,False
+APT-00504,2026-04-06,Carlo Mendoza,Makati,Female,Hair Spa,90,527.64,Credit Card,Completed,3.9,False
+APT-00505,2026-01-10,Marco Villanueva,BGC,Female,Scalp Treatment,57,1021.56,Debit Card,Completed,4.7,True
+APT-00506,2025-07-07,Chloe Aquino,BGC,Female,Hair Coloring,171,1571.93,Credit Card,Completed,4.0,True
+APT-00507,2025-12-04,Kevin Ramos,Ortigas,Male,Haircut,56,588.51,Debit Card,Completed,3.8,False
+APT-00508,2025-02-26,Anna Dela Cruz,Pasig,Female,Scalp Treatment,51,686.63,Maya,Completed,3.1,True
+APT-00509,2025-10-20,Maria Santos,BGC,Female,Full Highlights,169,2783.5,Cash,Completed,4.3,False
+APT-00510,2026-04-17,Ryan Castillo,BGC,Female,Haircut,45,323.06,Debit Card,Completed,4.9,True
+APT-00511,2026-02-25,Maria Santos,Ortigas,Male,Hair Spa,90,758.35,Debit Card,Completed,3.1,False
+APT-00512,2025-09-23,Maria Santos,Makati,Female,Scalp Treatment,53,687.41,Maya,Completed,3.5,False
+APT-00513,2025-10-13,Carlo Mendoza,Pasig,Male,Balayage,203,3872.99,GCash,Completed,4.5,False
+APT-00514,2025-07-25,Marco Villanueva,Quezon City,Female,Perming,204,2257.04,Cash,Completed,3.3,False
+APT-00515,2025-11-21,Ryan Castillo,Pasig,Female,Hair Relaxing,131,1645.88,Maya,Cancelled,,True
+APT-00516,2025-05-11,Chloe Aquino,BGC,Male,Hair Extension,177,4800.04,Credit Card,Cancelled,,False
+APT-00517,2026-04-01,Maria Santos,Makati,Female,Blow Dry,29,290.55,Maya,Completed,5.0,True
+APT-00518,2025-10-20,Maria Santos,Ortigas,Female,Hair Relaxing,94,1232.07,Debit Card,Completed,3.9,True
+APT-00519,2025-06-03,Bianca Flores,Ortigas,Female,Full Highlights,171,1683.81,Debit Card,Completed,4.1,True
+APT-00520,2025-12-20,Jose Reyes,Ortigas,Male,Toning,112,1502.85,Credit Card,Completed,4.8,False
+APT-00521,2025-06-21,Kevin Ramos,Quezon City,Male,Haircut,56,371.78,Cash,Cancelled,,False
+APT-00522,2025-11-20,Jose Reyes,BGC,Female,Blow Dry,29,314.75,Debit Card,No-show,,True
+APT-00523,2025-03-20,Chloe Aquino,Pasig,Male,Hair Relaxing,140,1075.78,GCash,Completed,4.9,True
+APT-00524,2025-09-01,Patricia Lim,Ortigas,Female,Balayage,156,3428.6,Credit Card,Completed,4.1,False
+APT-00525,2025-03-11,Patricia Lim,Pasig,Female,Hair Coloring,115,1617.57,Credit Card,Cancelled,,False
+APT-00526,2025-05-07,Kevin Ramos,BGC,Male,Blow Dry,28,272.69,Debit Card,Completed,4.6,False
+APT-00527,2025-06-28,Kevin Ramos,Makati,Female,Perming,164,1785.73,Cash,Completed,4.2,True
+APT-00528,2025-11-16,Anna Dela Cruz,Ortigas,Male,Keratin Treatment,185,2864.55,Debit Card,Cancelled,,True
+APT-00529,2025-11-14,Ryan Castillo,BGC,Female,Balayage,186,4316.82,Cash,Completed,3.0,True
+APT-00530,2025-04-19,Marco Villanueva,Quezon City,Male,Keratin Treatment,246,3009.5,Cash,Completed,4.5,False
+APT-00531,2025-01-23,Anna Dela Cruz,Makati,Male,Hair Extension,127,4277.28,Credit Card,Completed,3.6,False
+APT-00532,2026-03-13,Marco Villanueva,Makati,Female,Haircut,41,569.5,Cash,Completed,4.7,True
+APT-00533,2026-04-08,Patricia Lim,BGC,Male,Keratin Treatment,290,3288.64,Credit Card,Completed,4.2,True
+APT-00534,2025-01-21,Carlo Mendoza,Pasig,Male,Full Highlights,187,1994.78,Credit Card,Completed,3.6,False
+APT-00535,2025-06-04,Anna Dela Cruz,Makati,Female,Blow Dry,36,270.86,Maya,Completed,3.6,True
+APT-00536,2025-04-26,Bianca Flores,Quezon City,Male,Perming,170,1727.56,Cash,Rescheduled,,True
+APT-00537,2025-08-02,Patricia Lim,Pasig,Male,Hair Coloring,109,1208.61,Debit Card,No-show,,False
+APT-00538,2025-03-12,Kevin Ramos,Ortigas,Female,Keratin Treatment,267,3952.58,Credit Card,Completed,4.6,True
+APT-00539,2025-03-16,Chloe Aquino,BGC,Non-binary,Keratin Treatment,252,4140.58,Credit Card,Rescheduled,,True
+APT-00540,2025-06-12,Jose Reyes,Pasig,Female,Hair Relaxing,108,2259.28,Debit Card,Rescheduled,,True
+APT-00541,2026-04-03,Patricia Lim,Quezon City,Male,Hair Relaxing,125,1955.27,Maya,Completed,3.3,True
+APT-00542,2025-05-17,Anna Dela Cruz,BGC,Female,Hair Coloring,168,1829.53,Cash,Cancelled,,True
+APT-00543,2025-09-02,Carlo Mendoza,BGC,Male,Hair Extension,228,3670.43,Cash,Completed,4.2,False
+APT-00544,2025-01-17,Patricia Lim,Quezon City,Female,Full Highlights,121,2317.18,Credit Card,Completed,4.9,False
+APT-00545,2025-08-13,Carlo Mendoza,BGC,Non-binary,Balayage,212,4167.82,Cash,Completed,4.4,False
+APT-00546,2026-01-04,Patricia Lim,Quezon City,Male,Balayage,228,2782.24,Cash,Completed,4.9,True
+APT-00547,2025-05-06,Jose Reyes,Quezon City,Female,Scalp Treatment,42,1066.83,Credit Card,Cancelled,,True
+APT-00548,2026-03-29,Patricia Lim,Pasig,Female,Scalp Treatment,56,874.1,Cash,Completed,3.6,True
+APT-00549,2025-08-26,Bianca Flores,Pasig,Male,Blow Dry,34,448.97,Cash,Completed,3.2,True
+APT-00550,2025-01-13,Kevin Ramos,Pasig,Female,Full Highlights,195,1857.76,GCash,Completed,4.8,True
+APT-00551,2026-02-12,Jose Reyes,Ortigas,Male,Hair Spa,52,614.8,Maya,Completed,3.2,False
+APT-00552,2025-09-19,Ryan Castillo,Makati,Male,Perming,140,2418.11,Debit Card,Completed,3.8,False
+APT-00553,2025-03-25,Anna Dela Cruz,Ortigas,Male,Haircut,35,554.09,Debit Card,No-show,,True
+APT-00554,2026-04-06,Bianca Flores,Ortigas,Female,Blow Dry,26,239.47,Credit Card,Completed,3.0,False
+APT-00555,2026-03-28,Marco Villanueva,Quezon City,Female,Haircut,36,422.71,Credit Card,Completed,4.2,False
+APT-00556,2026-03-28,Patricia Lim,Quezon City,Female,Hair Spa,84,883.14,Cash,Completed,4.3,True
+APT-00557,2026-03-14,Anna Dela Cruz,BGC,Female,Haircut,48,261.35,Cash,Completed,4.7,False
+APT-00558,2025-12-11,Jose Reyes,Makati,Female,Hair Relaxing,174,1426.57,Cash,Completed,4.4,True
+APT-00559,2025-07-08,Kevin Ramos,Ortigas,Female,Hair Spa,49,1128.27,Cash,Completed,4.5,True
+APT-00560,2025-09-27,Marco Villanueva,BGC,Female,Keratin Treatment,206,3534.39,Cash,Completed,4.4,True
+APT-00561,2026-04-24,Kevin Ramos,Pasig,Male,Hair Coloring,180,2139.91,Cash,Completed,3.6,False
+APT-00562,2025-10-16,Chloe Aquino,Pasig,Female,Keratin Treatment,273,3740.99,Debit Card,Completed,4.3,False
+APT-00563,2025-01-13,Kevin Ramos,BGC,Female,Full Highlights,135,2429.77,Maya,Rescheduled,,True
+APT-00564,2025-11-23,Patricia Lim,Quezon City,Female,Hair Extension,201,4061.69,Cash,Completed,3.4,False
+APT-00565,2025-01-04,Jose Reyes,Ortigas,Female,Keratin Treatment,222,2784.59,Maya,Completed,3.7,True
+APT-00566,2025-08-31,Carlo Mendoza,Ortigas,Female,Full Highlights,202,3094.51,Maya,No-show,,True
+APT-00567,2026-02-21,Anna Dela Cruz,Quezon City,Female,Hair Spa,48,789.77,Debit Card,No-show,,False
+APT-00568,2025-06-19,Ryan Castillo,Pasig,Female,Hair Extension,233,6997.68,Debit Card,Completed,4.6,True
+APT-00569,2026-03-08,Bianca Flores,Makati,Female,Full Highlights,197,1831.94,Maya,Rescheduled,,False
+APT-00570,2025-01-17,Kevin Ramos,Makati,Female,Full Highlights,131,2042.99,Maya,Completed,4.0,True
+APT-00571,2025-07-11,Marco Villanueva,Ortigas,Female,Hair Relaxing,115,2177.42,GCash,Completed,4.8,False
+APT-00572,2025-09-05,Maria Santos,Quezon City,Female,Scalp Treatment,46,1259.2,Debit Card,Completed,3.6,False
+APT-00573,2025-07-18,Jose Reyes,Pasig,Female,Full Highlights,186,2927.35,GCash,Completed,3.2,False
+APT-00574,2025-09-24,Kevin Ramos,Makati,Female,Haircut,53,518.16,Maya,Completed,3.6,False
+APT-00575,2025-06-13,Carlo Mendoza,Ortigas,Female,Perming,205,2659.18,GCash,Completed,3.2,True
+APT-00576,2025-02-22,Bianca Flores,Makati,Female,Full Highlights,164,1913.15,Cash,Rescheduled,,False
+APT-00577,2025-11-10,Anna Dela Cruz,Ortigas,Female,Keratin Treatment,249,4730.61,Debit Card,Completed,3.9,True
+APT-00578,2025-07-20,Marco Villanueva,Makati,Female,Haircut,49,312.64,Cash,Completed,4.8,False
+APT-00579,2025-12-10,Ryan Castillo,Ortigas,Male,Hair Extension,130,7046.5,Maya,Cancelled,,False
+APT-00580,2025-11-26,Anna Dela Cruz,Makati,Female,Hair Extension,179,6551.08,Credit Card,Completed,3.9,True
+APT-00581,2025-12-07,Kevin Ramos,Ortigas,Male,Full Highlights,161,2160.66,Maya,Completed,3.9,True
+APT-00582,2025-05-25,Marco Villanueva,Makati,Male,Hair Coloring,167,2105.5,Maya,Completed,4.1,True
+APT-00583,2025-09-30,Jose Reyes,Ortigas,Male,Blow Dry,38,338.29,Debit Card,Completed,3.8,True
+APT-00584,2025-12-22,Anna Dela Cruz,Quezon City,Female,Scalp Treatment,55,1131.87,Credit Card,Completed,5.0,False
+APT-00585,2026-03-05,Carlo Mendoza,BGC,Male,Scalp Treatment,48,1037.97,Cash,Completed,4.2,False
+APT-00586,2025-11-03,Jose Reyes,Quezon City,Female,Scalp Treatment,56,697.87,GCash,Completed,4.2,False
+APT-00587,2025-10-25,Marco Villanueva,Makati,Female,Hair Relaxing,171,2354.88,Cash,Completed,4.6,True
+APT-00588,2025-08-17,Anna Dela Cruz,Quezon City,Female,Perming,207,1793.5,Debit Card,Completed,4.8,False
+APT-00589,2025-11-10,Bianca Flores,Quezon City,Female,Hair Extension,171,7932.11,Maya,Rescheduled,,True
+APT-00590,2025-10-14,Maria Santos,Ortigas,Female,Keratin Treatment,225,4551.88,Debit Card,Rescheduled,,True
+APT-00591,2025-06-12,Maria Santos,BGC,Female,Keratin Treatment,231,4279.43,Credit Card,Completed,3.8,True
+APT-00592,2026-04-19,Anna Dela Cruz,Quezon City,Female,Perming,173,2040.43,GCash,Completed,3.3,True
+APT-00593,2025-12-03,Maria Santos,Makati,Male,Full Highlights,137,2373.47,Cash,Completed,3.2,False
+APT-00594,2025-10-10,Kevin Ramos,Quezon City,Female,Hair Spa,69,1074.05,Debit Card,Completed,3.7,True
+APT-00595,2025-12-31,Kevin Ramos,Makati,Male,Blow Dry,33,350.52,Debit Card,Completed,4.9,False
+APT-00596,2025-09-04,Maria Santos,Pasig,Female,Haircut,32,586.61,Credit Card,Completed,3.3,False
+APT-00597,2025-08-30,Chloe Aquino,Makati,Female,Hair Spa,87,941.46,Debit Card,No-show,,True
+APT-00598,2025-10-01,Chloe Aquino,Pasig,Male,Perming,180,2667.79,Maya,Completed,3.9,False
+APT-00599,2025-05-29,Ryan Castillo,Quezon City,Male,Hair Extension,208,3837.54,Maya,Rescheduled,,False
+APT-00600,2025-10-21,Kevin Ramos,Ortigas,Female,Toning,78,851.62,Cash,Completed,4.6,True
+APT-00601,2025-05-23,Marco Villanueva,Makati,Male,Keratin Treatment,258,3130.13,GCash,Completed,3.6,False
+APT-00602,2025-12-04,Jose Reyes,Pasig,Male,Haircut,55,406.33,GCash,No-show,,True
+APT-00603,2025-06-25,Carlo Mendoza,Quezon City,Male,Keratin Treatment,198,4960.18,GCash,Cancelled,,True
+APT-00604,2025-03-27,Patricia Lim,Quezon City,Male,Hair Spa,67,647.6,GCash,Completed,3.1,False
+APT-00605,2026-01-18,Maria Santos,BGC,Female,Hair Coloring,158,2412.03,Credit Card,Completed,3.5,False
+APT-00606,2026-04-20,Bianca Flores,BGC,Female,Hair Spa,69,1058.12,Debit Card,No-show,,False
+APT-00607,2025-08-10,Maria Santos,Makati,Non-binary,Scalp Treatment,50,1149.44,Debit Card,Completed,4.7,False
+APT-00608,2026-01-31,Bianca Flores,Makati,Female,Keratin Treatment,210,4188.23,Maya,Completed,4.5,True
+APT-00609,2026-03-02,Ryan Castillo,BGC,Male,Scalp Treatment,43,661.16,Maya,Completed,3.2,True
+APT-00610,2025-01-18,Marco Villanueva,Ortigas,Female,Perming,131,1535.55,GCash,Completed,3.1,True
+APT-00611,2025-12-03,Jose Reyes,Makati,Female,Hair Extension,202,6819.29,Cash,No-show,,True
+APT-00612,2025-11-24,Anna Dela Cruz,Ortigas,Male,Hair Coloring,125,1570.85,Maya,Completed,4.5,False
+APT-00613,2025-06-20,Anna Dela Cruz,Makati,Female,Keratin Treatment,213,4989.9,Maya,Cancelled,,False
+APT-00614,2025-07-21,Marco Villanueva,Makati,Female,Full Highlights,182,1856.88,Credit Card,Rescheduled,,True
+APT-00615,2025-08-15,Chloe Aquino,Quezon City,Female,Full Highlights,133,2930.8,GCash,Completed,3.1,True
+APT-00616,2025-11-24,Bianca Flores,Quezon City,Female,Hair Extension,124,3004.34,Cash,No-show,,False
+APT-00617,2026-04-27,Anna Dela Cruz,Ortigas,Female,Keratin Treatment,241,4427.48,Credit Card,Completed,3.9,True
+APT-00618,2025-09-04,Carlo Mendoza,Makati,Male,Scalp Treatment,47,709.08,Credit Card,Rescheduled,,False
+APT-00619,2025-02-16,Bianca Flores,Quezon City,Non-binary,Hair Relaxing,133,1548.03,Cash,Completed,3.2,False
+APT-00620,2025-04-08,Carlo Mendoza,BGC,Female,Keratin Treatment,229,3247.18,Debit Card,Completed,4.8,False
+APT-00621,2026-01-04,Jose Reyes,Quezon City,Female,Hair Spa,60,1197.47,GCash,Completed,4.0,True
+APT-00622,2025-01-09,Bianca Flores,Quezon City,Male,Scalp Treatment,31,633.34,Debit Card,Rescheduled,,False
+APT-00623,2025-09-25,Maria Santos,Quezon City,Male,Toning,103,1258.37,Cash,Completed,4.7,True
+APT-00624,2025-12-01,Kevin Ramos,BGC,Female,Toning,118,819.06,Cash,Completed,4.8,True
+APT-00625,2026-02-25,Anna Dela Cruz,Makati,Male,Balayage,208,3984.24,GCash,Completed,4.2,True
+APT-00626,2026-02-16,Jose Reyes,Quezon City,Female,Hair Coloring,133,1144.49,Debit Card,Cancelled,,False
+APT-00627,2026-02-11,Jose Reyes,Pasig,Male,Hair Relaxing,95,1319.85,Debit Card,Completed,4.2,False
+APT-00628,2025-07-09,Jose Reyes,Ortigas,Female,Hair Coloring,146,1740.79,GCash,Cancelled,,True
+APT-00629,2025-07-12,Maria Santos,BGC,Female,Hair Extension,122,6888.31,Cash,Cancelled,,False
+APT-00630,2025-10-31,Maria Santos,Makati,Male,Hair Coloring,143,2307.76,GCash,No-show,,False
+APT-00631,2025-07-30,Anna Dela Cruz,BGC,Female,Toning,71,1039.25,GCash,Completed,4.2,True
+APT-00632,2026-02-05,Anna Dela Cruz,Quezon City,Female,Hair Extension,173,4506.0,Debit Card,Rescheduled,,True
+APT-00633,2025-11-13,Carlo Mendoza,BGC,Non-binary,Scalp Treatment,54,925.71,Cash,Rescheduled,,True
+APT-00634,2025-12-17,Carlo Mendoza,Ortigas,Male,Hair Spa,75,1090.65,Cash,Completed,4.0,True
+APT-00635,2025-06-21,Maria Santos,Makati,Female,Perming,178,2425.23,Maya,Completed,3.1,True
+APT-00636,2026-04-04,Anna Dela Cruz,BGC,Female,Scalp Treatment,44,811.77,Cash,Completed,4.2,False
+APT-00637,2025-02-20,Carlo Mendoza,Ortigas,Female,Blow Dry,33,271.14,GCash,Cancelled,,True
+APT-00638,2025-08-12,Carlo Mendoza,Makati,Female,Blow Dry,39,243.48,Credit Card,Completed,3.9,False
+APT-00639,2025-04-14,Anna Dela Cruz,Quezon City,Non-binary,Hair Relaxing,94,1503.84,GCash,Completed,4.4,True
+APT-00640,2025-06-25,Anna Dela Cruz,Makati,Female,Keratin Treatment,217,3049.63,Credit Card,Completed,4.2,True
+APT-00641,2026-03-18,Chloe Aquino,BGC,Female,Hair Extension,195,7978.32,Cash,Completed,3.9,False
+APT-00642,2025-04-24,Maria Santos,Quezon City,Female,Keratin Treatment,255,4729.56,GCash,Completed,4.9,True
+APT-00643,2025-08-06,Maria Santos,Makati,Female,Blow Dry,35,359.34,Credit Card,Completed,4.6,True
+APT-00644,2026-01-10,Marco Villanueva,BGC,Female,Hair Spa,58,784.63,Cash,Completed,3.3,False
+APT-00645,2025-08-24,Jose Reyes,Makati,Female,Balayage,224,4144.81,Credit Card,Completed,3.0,False
+APT-00646,2025-08-26,Anna Dela Cruz,Quezon City,Female,Hair Spa,45,992.73,GCash,Cancelled,,True
+APT-00647,2025-12-24,Ryan Castillo,Pasig,Male,Blow Dry,37,483.83,Cash,Completed,4.2,True
+APT-00648,2026-04-30,Jose Reyes,Pasig,Female,Perming,166,2865.01,Maya,Completed,4.8,True
+APT-00649,2025-11-28,Ryan Castillo,Quezon City,Female,Blow Dry,22,367.64,Debit Card,Completed,4.1,True
+APT-00650,2026-04-26,Ryan Castillo,BGC,Female,Full Highlights,209,3004.55,Debit Card,Completed,3.4,True
+APT-00651,2025-02-02,Ryan Castillo,Ortigas,Female,Hair Relaxing,147,1559.22,Debit Card,Completed,4.0,True
+APT-00652,2025-12-11,Chloe Aquino,Pasig,Female,Hair Spa,49,1161.76,Maya,Completed,3.4,False
+APT-00653,2025-02-25,Jose Reyes,Quezon City,Non-binary,Hair Coloring,104,1080.1,GCash,Completed,4.4,False
+APT-00654,2025-10-05,Carlo Mendoza,Pasig,Non-binary,Full Highlights,180,3363.44,Cash,Completed,3.7,False
+APT-00655,2025-04-29,Maria Santos,Ortigas,Male,Toning,93,1634.95,GCash,Completed,4.3,False
+APT-00656,2026-03-08,Ryan Castillo,Ortigas,Male,Hair Extension,178,5742.34,Credit Card,Completed,3.6,True
+APT-00657,2026-01-30,Anna Dela Cruz,Ortigas,Non-binary,Keratin Treatment,198,4613.78,GCash,Completed,3.7,False
+APT-00658,2026-03-06,Kevin Ramos,BGC,Non-binary,Full Highlights,205,2916.22,Debit Card,Completed,4.6,True
+APT-00659,2025-07-09,Jose Reyes,Makati,Female,Balayage,221,2461.24,Maya,Completed,4.4,False
+APT-00660,2025-06-04,Anna Dela Cruz,Ortigas,Female,Hair Relaxing,93,1182.24,Credit Card,Completed,3.8,False
+APT-00661,2025-09-17,Marco Villanueva,Ortigas,Male,Full Highlights,210,2162.56,GCash,Completed,3.6,False
+APT-00662,2025-09-03,Anna Dela Cruz,Pasig,Female,Hair Extension,137,7500.87,Credit Card,Completed,4.4,True
+APT-00663,2025-02-17,Maria Santos,Quezon City,Female,Keratin Treatment,257,3315.92,Debit Card,Cancelled,,True
+APT-00664,2026-03-11,Chloe Aquino,BGC,Female,Hair Extension,205,5227.29,Maya,Completed,4.9,False
+APT-00665,2026-04-11,Marco Villanueva,Ortigas,Male,Balayage,200,3666.92,Debit Card,Completed,3.3,False
+APT-00666,2025-08-17,Patricia Lim,Ortigas,Female,Hair Relaxing,101,2311.45,Cash,Completed,3.4,False
+APT-00667,2026-04-05,Patricia Lim,Quezon City,Male,Toning,117,1223.83,Maya,Completed,3.8,True
+APT-00668,2025-06-21,Carlo Mendoza,Ortigas,Female,Full Highlights,195,1632.23,Credit Card,Rescheduled,,False
+APT-00669,2025-12-30,Maria Santos,Quezon City,Female,Hair Coloring,107,1765.46,Maya,Completed,3.4,False
+APT-00670,2025-10-27,Chloe Aquino,Quezon City,Female,Keratin Treatment,251,3259.79,Cash,Cancelled,,False
+APT-00671,2026-03-04,Maria Santos,Makati,Non-binary,Balayage,165,3591.4,GCash,Completed,4.3,False
+APT-00672,2025-09-10,Anna Dela Cruz,Quezon City,Male,Blow Dry,22,498.3,GCash,Completed,4.2,False
+APT-00673,2025-09-01,Marco Villanueva,Pasig,Female,Hair Extension,224,7871.29,Credit Card,No-show,,True
+APT-00674,2025-01-30,Chloe Aquino,Pasig,Female,Hair Relaxing,149,1219.21,Cash,Cancelled,,True
+APT-00675,2025-07-02,Anna Dela Cruz,Makati,Female,Hair Relaxing,127,1073.07,Maya,Completed,4.1,True
+APT-00676,2025-06-15,Carlo Mendoza,BGC,Female,Scalp Treatment,56,1385.2,Cash,Completed,4.7,False
+APT-00677,2025-01-07,Ryan Castillo,Makati,Male,Keratin Treatment,216,2842.37,Debit Card,Completed,3.7,False
+APT-00678,2026-03-02,Ryan Castillo,BGC,Female,Blow Dry,37,256.53,Cash,Completed,4.2,True
+APT-00679,2025-09-03,Marco Villanueva,Makati,Male,Blow Dry,42,304.46,Cash,Cancelled,,False
+APT-00680,2025-12-30,Marco Villanueva,Pasig,Female,Full Highlights,135,2109.37,Debit Card,Cancelled,,True
+APT-00681,2025-02-10,Anna Dela Cruz,BGC,Female,Full Highlights,134,2349.61,Maya,Completed,3.2,False
+APT-00682,2025-10-31,Maria Santos,BGC,Male,Blow Dry,23,217.78,Cash,Completed,4.8,True
+APT-00683,2025-04-16,Bianca Flores,Makati,Male,Hair Coloring,115,1798.93,Cash,Cancelled,,True
+APT-00684,2025-05-23,Ryan Castillo,Makati,Male,Perming,164,2923.19,Cash,Completed,3.7,True
+APT-00685,2025-09-28,Kevin Ramos,Makati,Male,Scalp Treatment,36,795.3,Cash,Cancelled,,False
+APT-00686,2026-03-12,Chloe Aquino,Makati,Male,Full Highlights,166,2915.51,Cash,No-show,,True
+APT-00687,2025-09-21,Jose Reyes,BGC,Female,Hair Spa,52,659.29,Maya,Rescheduled,,False
+APT-00688,2025-12-27,Marco Villanueva,Makati,Male,Hair Coloring,95,1290.06,Debit Card,Completed,3.2,False
+APT-00689,2026-03-07,Patricia Lim,Ortigas,Female,Hair Coloring,160,1554.72,Credit Card,Completed,3.8,False
+APT-00690,2025-09-09,Jose Reyes,Quezon City,Non-binary,Balayage,200,3680.24,Maya,Completed,3.9,True
+APT-00691,2026-01-15,Anna Dela Cruz,Quezon City,Non-binary,Hair Coloring,111,2372.99,Credit Card,Completed,3.1,True
+APT-00692,2026-01-07,Carlo Mendoza,Pasig,Male,Hair Relaxing,164,1748.67,Credit Card,Completed,4.2,False
+APT-00693,2025-03-17,Marco Villanueva,Pasig,Female,Hair Relaxing,103,2152.0,Credit Card,Rescheduled,,True
+APT-00694,2025-02-20,Marco Villanueva,Quezon City,Female,Keratin Treatment,286,4344.5,GCash,Completed,3.1,True
+APT-00695,2025-02-19,Patricia Lim,Pasig,Female,Full Highlights,204,3020.34,Maya,Completed,4.5,False
+APT-00696,2025-06-25,Carlo Mendoza,Ortigas,Female,Hair Spa,79,1066.64,Credit Card,Completed,4.1,True
+APT-00697,2025-08-24,Jose Reyes,Quezon City,Female,Blow Dry,25,210.79,Credit Card,Completed,4.1,False
+APT-00698,2025-09-07,Anna Dela Cruz,Quezon City,Male,Toning,96,1564.01,Credit Card,Completed,4.4,False
+APT-00699,2025-10-30,Chloe Aquino,BGC,Female,Hair Spa,84,1179.61,Debit Card,Completed,4.4,False
+APT-00700,2025-06-28,Maria Santos,Makati,Male,Hair Relaxing,164,2214.33,Debit Card,Completed,3.1,False
+APT-00701,2025-01-29,Jose Reyes,Quezon City,Female,Blow Dry,27,398.37,Maya,Rescheduled,,True
+APT-00702,2025-06-06,Bianca Flores,Pasig,Female,Perming,141,1671.71,Cash,No-show,,True
+APT-00703,2025-09-21,Ryan Castillo,Makati,Female,Scalp Treatment,38,1411.27,Credit Card,Completed,3.0,False
+APT-00704,2025-02-20,Maria Santos,Ortigas,Female,Hair Extension,132,7041.63,Credit Card,Completed,4.4,True
+APT-00705,2025-08-12,Marco Villanueva,Pasig,Female,Hair Relaxing,171,1302.64,Maya,Completed,4.7,True
+APT-00706,2025-07-25,Carlo Mendoza,Ortigas,Non-binary,Scalp Treatment,49,1324.14,Maya,Completed,4.5,True
+APT-00707,2026-02-15,Kevin Ramos,Makati,Female,Toning,87,1331.06,Debit Card,Completed,3.4,True
+APT-00708,2025-04-13,Bianca Flores,Pasig,Female,Perming,152,2121.47,Maya,Completed,4.2,False
+APT-00709,2025-04-06,Chloe Aquino,BGC,Female,Perming,147,2365.26,Cash,Completed,4.3,False
+APT-00710,2025-01-31,Chloe Aquino,Pasig,Male,Keratin Treatment,226,3805.67,Credit Card,Rescheduled,,False
+APT-00711,2026-03-17,Carlo Mendoza,BGC,Female,Full Highlights,128,3160.43,Maya,Cancelled,,True
+APT-00712,2025-07-27,Bianca Flores,Ortigas,Female,Blow Dry,24,271.55,GCash,Completed,3.4,True
+APT-00713,2026-04-09,Marco Villanueva,Quezon City,Female,Keratin Treatment,200,2592.51,Debit Card,Rescheduled,,False
+APT-00714,2026-03-13,Maria Santos,Ortigas,Female,Full Highlights,182,1584.46,Maya,Completed,4.6,True
+APT-00715,2025-07-28,Ryan Castillo,Pasig,Male,Hair Coloring,175,2324.51,Maya,No-show,,True
+APT-00716,2025-03-03,Anna Dela Cruz,BGC,Female,Blow Dry,38,356.59,Cash,Completed,4.9,False
+APT-00717,2025-06-18,Jose Reyes,BGC,Male,Hair Spa,69,1082.63,Debit Card,Completed,4.6,True
+APT-00718,2025-08-14,Carlo Mendoza,BGC,Non-binary,Blow Dry,38,322.51,Cash,Completed,3.1,False
+APT-00719,2025-05-23,Jose Reyes,Ortigas,Male,Toning,119,1679.43,Debit Card,Completed,3.3,False
+APT-00720,2025-01-18,Ryan Castillo,Ortigas,Male,Toning,102,1641.47,Cash,Completed,4.6,True
+APT-00721,2025-12-25,Carlo Mendoza,Ortigas,Female,Toning,111,1162.86,Debit Card,Completed,4.4,True
+APT-00722,2025-06-04,Patricia Lim,Makati,Male,Hair Spa,60,563.18,Credit Card,No-show,,False
+APT-00723,2025-07-28,Anna Dela Cruz,Quezon City,Male,Balayage,185,3973.29,Maya,No-show,,True
+APT-00724,2026-02-24,Marco Villanueva,Quezon City,Male,Hair Spa,55,570.28,Maya,Completed,4.4,True
+APT-00725,2025-01-15,Patricia Lim,Pasig,Female,Hair Relaxing,172,2142.96,Debit Card,Completed,4.3,False
+APT-00726,2025-10-22,Anna Dela Cruz,Makati,Female,Perming,140,1623.35,Credit Card,Completed,3.5,True
+APT-00727,2025-05-14,Patricia Lim,Ortigas,Male,Hair Extension,195,3867.4,Credit Card,Completed,4.7,False
+APT-00728,2026-04-29,Jose Reyes,Quezon City,Male,Balayage,223,4086.7,Maya,Completed,3.4,True
+APT-00729,2025-12-26,Kevin Ramos,BGC,Female,Scalp Treatment,31,1366.65,Cash,Rescheduled,,False
+APT-00730,2025-03-29,Patricia Lim,Pasig,Non-binary,Hair Extension,135,7736.22,Maya,Completed,3.0,False
+APT-00731,2026-03-18,Marco Villanueva,Makati,Female,Hair Spa,62,1069.39,GCash,Completed,3.6,False
+APT-00732,2025-05-25,Anna Dela Cruz,Quezon City,Non-binary,Blow Dry,26,418.01,GCash,Completed,3.8,False
+APT-00733,2025-05-08,Maria Santos,Ortigas,Female,Full Highlights,207,2239.28,Maya,Completed,4.3,True
+APT-00734,2025-04-19,Marco Villanueva,BGC,Female,Haircut,52,499.67,Maya,Rescheduled,,False
+APT-00735,2025-06-20,Kevin Ramos,Ortigas,Female,Toning,90,1731.06,Cash,Completed,4.8,True
+APT-00736,2025-12-10,Bianca Flores,Pasig,Non-binary,Haircut,60,379.82,Debit Card,Completed,4.8,True
+APT-00737,2026-03-26,Anna Dela Cruz,Ortigas,Male,Hair Extension,131,5340.42,GCash,Completed,3.6,False
+APT-00738,2026-03-23,Bianca Flores,Makati,Female,Full Highlights,155,3446.74,Maya,Completed,4.5,False
+APT-00739,2025-03-26,Bianca Flores,Pasig,Female,Keratin Treatment,242,3288.86,Maya,Completed,4.5,True
+APT-00740,2025-01-19,Marco Villanueva,Makati,Female,Scalp Treatment,35,1023.22,GCash,Completed,4.4,False
+APT-00741,2025-09-06,Marco Villanueva,Makati,Male,Hair Coloring,104,1578.19,Credit Card,Completed,4.7,True
+APT-00742,2025-03-28,Ryan Castillo,Makati,Female,Hair Coloring,124,2074.89,GCash,No-show,,True
+APT-00743,2025-05-07,Maria Santos,Pasig,Male,Hair Extension,206,6841.27,Debit Card,Completed,3.2,False
+APT-00744,2025-02-24,Bianca Flores,Makati,Male,Haircut,34,542.94,Credit Card,Completed,3.1,False
+APT-00745,2025-01-23,Marco Villanueva,Quezon City,Female,Toning,120,1456.17,Maya,Completed,3.9,True
+APT-00746,2025-10-08,Maria Santos,Ortigas,Male,Balayage,198,4379.75,Maya,Cancelled,,True
+APT-00747,2025-02-15,Bianca Flores,BGC,Male,Blow Dry,26,206.15,GCash,Rescheduled,,True
+APT-00748,2025-08-10,Patricia Lim,Ortigas,Female,Blow Dry,29,420.77,GCash,Completed,4.8,True
+APT-00749,2025-07-18,Jose Reyes,Ortigas,Female,Hair Relaxing,162,1714.66,Debit Card,Completed,4.2,True
+APT-00750,2025-01-21,Ryan Castillo,Pasig,Female,Blow Dry,34,354.0,GCash,Completed,4.4,True
+APT-00751,2026-04-10,Chloe Aquino,Pasig,Female,Hair Spa,64,1061.08,Cash,Completed,3.3,True
+APT-00752,2025-10-10,Bianca Flores,BGC,Female,Perming,125,1614.8,Debit Card,Completed,4.0,False
+APT-00753,2025-10-27,Jose Reyes,Quezon City,Female,Blow Dry,36,224.53,Debit Card,Cancelled,,True
+APT-00754,2025-08-02,Marco Villanueva,BGC,Female,Hair Coloring,128,2290.48,GCash,Cancelled,,False
+APT-00755,2026-04-16,Marco Villanueva,Quezon City,Female,Hair Extension,143,7356.72,Debit Card,Cancelled,,True
+APT-00756,2025-10-01,Jose Reyes,Pasig,Female,Full Highlights,170,1535.83,Maya,No-show,,True
+APT-00757,2026-01-17,Anna Dela Cruz,Quezon City,Male,Haircut,45,460.66,Credit Card,Completed,3.6,False
+APT-00758,2025-02-27,Patricia Lim,Ortigas,Female,Toning,104,1615.97,Cash,Completed,4.9,True
+APT-00759,2026-02-09,Marco Villanueva,BGC,Female,Balayage,161,3346.46,GCash,Completed,3.6,False
+APT-00760,2026-01-14,Marco Villanueva,Quezon City,Male,Full Highlights,182,2905.2,Cash,Completed,3.9,False
+APT-00761,2025-01-27,Carlo Mendoza,BGC,Male,Hair Extension,133,4669.25,Maya,Completed,4.3,False
+APT-00762,2025-01-19,Marco Villanueva,Pasig,Non-binary,Blow Dry,35,346.25,Debit Card,Completed,4.0,False
+APT-00763,2025-02-02,Maria Santos,Pasig,Female,Balayage,232,2669.62,Cash,Completed,3.8,False
+APT-00764,2025-03-24,Marco Villanueva,Pasig,Female,Hair Coloring,114,1289.62,Maya,Completed,3.9,False
+APT-00765,2025-11-05,Chloe Aquino,BGC,Female,Balayage,234,4133.63,Debit Card,No-show,,False
+APT-00766,2026-01-12,Bianca Flores,Quezon City,Male,Full Highlights,180,2220.51,Credit Card,Cancelled,,True
+APT-00767,2025-04-13,Carlo Mendoza,Ortigas,Female,Hair Extension,182,3781.57,Cash,Completed,3.2,False
+APT-00768,2025-07-03,Bianca Flores,BGC,Non-binary,Hair Spa,67,1116.63,GCash,Completed,4.4,True
+APT-00769,2025-03-03,Maria Santos,Makati,Female,Scalp Treatment,45,1105.78,Maya,Completed,3.5,False
+APT-00770,2026-03-24,Maria Santos,Pasig,Male,Hair Relaxing,175,1773.08,Maya,No-show,,True
+APT-00771,2025-02-24,Maria Santos,Quezon City,Male,Toning,99,1581.65,Credit Card,Rescheduled,,True
+APT-00772,2025-04-16,Maria Santos,Pasig,Female,Scalp Treatment,35,1419.89,Cash,Completed,4.5,False
+APT-00773,2025-03-12,Marco Villanueva,Makati,Female,Scalp Treatment,36,710.69,GCash,Completed,3.9,False
+APT-00774,2025-05-17,Carlo Mendoza,Quezon City,Female,Haircut,54,380.35,Maya,Completed,3.8,True
+APT-00775,2026-04-16,Chloe Aquino,Quezon City,Female,Full Highlights,178,2318.62,GCash,Completed,4.9,False
+APT-00776,2025-02-05,Marco Villanueva,BGC,Female,Haircut,40,279.67,Cash,Completed,3.8,True
+APT-00777,2026-04-08,Maria Santos,Quezon City,Female,Blow Dry,40,372.37,Cash,Completed,5.0,False
+APT-00778,2025-06-26,Patricia Lim,Pasig,Female,Blow Dry,28,202.37,Maya,Completed,4.8,True
+APT-00779,2025-11-13,Patricia Lim,Quezon City,Female,Toning,104,1452.04,GCash,No-show,,False
+APT-00780,2025-07-19,Patricia Lim,BGC,Female,Perming,136,2587.65,Maya,Completed,4.0,False
+APT-00781,2025-11-22,Jose Reyes,Pasig,Female,Balayage,153,2400.07,Debit Card,Completed,4.8,False
+APT-00782,2025-07-10,Bianca Flores,Quezon City,Female,Balayage,214,2649.39,Debit Card,Completed,3.7,True
+APT-00783,2025-06-23,Jose Reyes,Quezon City,Female,Perming,194,2974.43,Maya,Completed,4.1,True
+APT-00784,2025-09-24,Bianca Flores,Ortigas,Male,Hair Relaxing,103,2106.27,Debit Card,Completed,3.7,True
+APT-00785,2025-02-11,Marco Villanueva,Makati,Male,Hair Relaxing,144,1138.37,GCash,Completed,4.8,False
+APT-00786,2025-10-14,Marco Villanueva,Makati,Female,Balayage,200,3297.36,Maya,Completed,4.7,False
+APT-00787,2025-03-25,Patricia Lim,Quezon City,Female,Perming,136,1716.52,Credit Card,Completed,4.0,False
+APT-00788,2025-01-17,Chloe Aquino,Pasig,Female,Full Highlights,191,2992.99,Cash,Completed,3.7,True
+APT-00789,2025-09-25,Patricia Lim,Makati,Female,Hair Extension,167,3766.52,Cash,Completed,3.6,False
+APT-00790,2025-10-29,Bianca Flores,Quezon City,Female,Keratin Treatment,299,3554.39,Cash,Cancelled,,False
+APT-00791,2025-02-04,Carlo Mendoza,BGC,Female,Keratin Treatment,233,4676.07,Credit Card,Completed,4.0,False
+APT-00792,2025-11-07,Marco Villanueva,Ortigas,Male,Hair Extension,137,3664.05,Credit Card,Completed,4.0,False
+APT-00793,2025-11-16,Marco Villanueva,BGC,Female,Hair Spa,59,786.74,Maya,Completed,4.8,False
+APT-00794,2025-12-29,Maria Santos,Quezon City,Male,Scalp Treatment,50,622.32,Maya,Completed,4.6,False
+APT-00795,2025-10-23,Jose Reyes,Pasig,Female,Scalp Treatment,60,1281.85,Cash,Completed,4.1,True
+APT-00796,2025-01-10,Chloe Aquino,Makati,Female,Hair Spa,58,692.47,Cash,Completed,3.5,False
+APT-00797,2026-03-18,Chloe Aquino,Pasig,Female,Hair Coloring,133,2387.54,Maya,Completed,3.9,False
+APT-00798,2025-02-20,Chloe Aquino,Ortigas,Female,Haircut,39,439.62,Credit Card,Completed,3.3,False
+APT-00799,2025-06-16,Anna Dela Cruz,Ortigas,Female,Hair Coloring,97,1108.48,Credit Card,Completed,3.6,True
+APT-00800,2026-04-06,Anna Dela Cruz,Quezon City,Male,Hair Relaxing,115,1181.45,Maya,Completed,3.5,True
+APT-00801,2025-06-12,Chloe Aquino,Pasig,Female,Hair Spa,71,825.38,Credit Card,Rescheduled,,True
+APT-00802,2025-10-11,Maria Santos,Quezon City,Female,Hair Spa,88,1174.43,GCash,No-show,,True
+APT-00803,2026-03-10,Chloe Aquino,BGC,Female,Balayage,176,3589.5,Maya,Completed,4.6,True
+APT-00804,2026-04-12,Chloe Aquino,BGC,Female,Hair Relaxing,95,1832.73,GCash,Completed,3.0,False
+APT-00805,2025-05-20,Bianca Flores,BGC,Male,Hair Extension,227,5989.34,Cash,Completed,4.4,False
+APT-00806,2025-10-01,Carlo Mendoza,Pasig,Female,Perming,158,2344.62,Debit Card,Completed,3.2,True
+APT-00807,2026-02-15,Chloe Aquino,Ortigas,Female,Full Highlights,207,2136.61,Credit Card,Completed,4.9,False
+APT-00808,2025-04-18,Marco Villanueva,Ortigas,Female,Toning,98,1259.8,GCash,Completed,3.7,True
+APT-00809,2025-03-30,Maria Santos,Pasig,Female,Perming,209,2119.74,Credit Card,Completed,4.4,False
+APT-00810,2025-12-10,Jose Reyes,Makati,Male,Scalp Treatment,33,1000.66,Debit Card,Completed,3.7,False
+APT-00811,2025-01-05,Ryan Castillo,Quezon City,Male,Hair Extension,167,3623.82,GCash,Cancelled,,True
+APT-00812,2025-12-30,Maria Santos,BGC,Male,Hair Spa,50,750.47,Cash,Cancelled,,False
+APT-00813,2025-09-10,Carlo Mendoza,BGC,Female,Toning,105,1704.51,Credit Card,Rescheduled,,True
+APT-00814,2025-09-10,Carlo Mendoza,Quezon City,Female,Haircut,36,309.67,Cash,No-show,,True
+APT-00815,2026-03-15,Kevin Ramos,BGC,Male,Hair Coloring,156,1187.54,Cash,Completed,4.5,False
+APT-00816,2025-08-21,Maria Santos,Pasig,Female,Balayage,204,2004.89,Debit Card,Completed,4.3,True
+APT-00817,2025-09-11,Patricia Lim,Quezon City,Female,Hair Relaxing,95,1542.21,Maya,Completed,4.8,True
+APT-00818,2025-04-10,Bianca Flores,Quezon City,Female,Haircut,58,367.15,Debit Card,Completed,4.1,True
+APT-00819,2025-06-18,Carlo Mendoza,Quezon City,Female,Toning,100,1110.81,Cash,No-show,,True
+APT-00820,2025-06-21,Marco Villanueva,Quezon City,Female,Haircut,37,544.18,Cash,Completed,3.2,True
+APT-00821,2026-02-02,Maria Santos,Ortigas,Male,Hair Relaxing,146,1899.95,Debit Card,Cancelled,,True
+APT-00822,2025-01-18,Marco Villanueva,Pasig,Female,Perming,208,2066.09,Cash,Completed,3.1,True
+APT-00823,2025-02-22,Marco Villanueva,Makati,Female,Haircut,47,487.15,Maya,Completed,3.1,False
+APT-00824,2025-12-04,Jose Reyes,Pasig,Female,Blow Dry,34,387.2,Credit Card,Completed,3.8,False
+APT-00825,2025-01-14,Kevin Ramos,Makati,Male,Hair Extension,162,5270.38,Maya,Completed,4.2,True
+APT-00826,2026-04-09,Maria Santos,Pasig,Male,Hair Coloring,171,1774.46,Cash,Completed,4.0,False
+APT-00827,2025-01-23,Marco Villanueva,Pasig,Female,Blow Dry,29,218.15,Credit Card,Completed,4.2,False
+APT-00828,2025-06-25,Kevin Ramos,Pasig,Female,Keratin Treatment,181,3227.66,GCash,Completed,4.0,True
+APT-00829,2025-04-11,Carlo Mendoza,Pasig,Female,Haircut,50,591.78,Debit Card,No-show,,True
+APT-00830,2025-11-04,Ryan Castillo,BGC,Non-binary,Hair Coloring,164,1977.1,Credit Card,Completed,4.1,False
+APT-00831,2026-02-09,Bianca Flores,Quezon City,Female,Hair Extension,183,7552.72,Maya,Completed,3.4,True
+APT-00832,2026-01-12,Carlo Mendoza,BGC,Female,Perming,162,2652.52,Credit Card,Completed,4.6,False
+APT-00833,2025-01-16,Patricia Lim,BGC,Female,Balayage,168,3386.73,Cash,Completed,3.6,True
+APT-00834,2025-05-26,Kevin Ramos,Ortigas,Female,Perming,153,1761.22,Cash,Rescheduled,,True
+APT-00835,2025-05-15,Chloe Aquino,BGC,Female,Hair Relaxing,92,2365.97,GCash,Completed,4.7,True
+APT-00836,2026-02-19,Jose Reyes,Ortigas,Female,Blow Dry,25,311.71,GCash,Completed,4.9,False
+APT-00837,2025-04-08,Jose Reyes,Makati,Female,Toning,84,991.68,GCash,No-show,,False
+APT-00838,2025-10-28,Kevin Ramos,Quezon City,Male,Hair Relaxing,158,1283.65,GCash,No-show,,False
+APT-00839,2025-03-06,Ryan Castillo,BGC,Female,Full Highlights,194,3203.01,Cash,Completed,4.8,True
+APT-00840,2026-01-20,Jose Reyes,Quezon City,Female,Toning,108,1682.42,Debit Card,Completed,4.0,False
+APT-00841,2025-09-05,Marco Villanueva,BGC,Female,Scalp Treatment,45,1244.08,Maya,Completed,3.9,False
+APT-00842,2026-03-18,Kevin Ramos,Makati,Female,Perming,147,1851.58,GCash,Completed,3.6,False
+APT-00843,2025-02-13,Anna Dela Cruz,Ortigas,Female,Hair Extension,186,4475.24,Maya,Completed,3.7,True
+APT-00844,2025-07-29,Chloe Aquino,Pasig,Female,Hair Spa,76,757.26,Maya,Completed,3.6,False
+APT-00845,2026-04-07,Anna Dela Cruz,Quezon City,Female,Haircut,56,278.85,GCash,Completed,4.0,True
+APT-00846,2025-04-13,Carlo Mendoza,Makati,Female,Keratin Treatment,266,3334.39,Cash,Completed,3.7,False
+APT-00847,2026-01-21,Bianca Flores,BGC,Non-binary,Toning,94,1516.19,Debit Card,Rescheduled,,False
+APT-00848,2025-07-27,Bianca Flores,Ortigas,Female,Haircut,54,537.65,Maya,Cancelled,,True
+APT-00849,2025-04-18,Chloe Aquino,BGC,Male,Hair Spa,78,832.11,Credit Card,Completed,4.2,False
+APT-00850,2026-01-30,Marco Villanueva,Ortigas,Female,Toning,86,1741.93,Cash,Completed,3.4,False
+APT-00851,2026-04-28,Maria Santos,Ortigas,Female,Scalp Treatment,45,1264.02,GCash,Completed,4.6,False
+APT-00852,2026-02-03,Carlo Mendoza,Quezon City,Female,Hair Relaxing,128,2035.78,Credit Card,Completed,3.7,True
+APT-00853,2025-10-18,Maria Santos,BGC,Non-binary,Hair Extension,197,6149.2,GCash,Rescheduled,,False
+APT-00854,2025-02-25,Carlo Mendoza,Quezon City,Female,Blow Dry,34,298.65,Cash,Completed,4.3,False
+APT-00855,2025-11-05,Anna Dela Cruz,Makati,Male,Hair Coloring,113,1630.64,Debit Card,Completed,3.4,False
+APT-00856,2025-01-30,Carlo Mendoza,BGC,Female,Keratin Treatment,181,3421.63,Maya,Completed,3.3,False
+APT-00857,2025-02-05,Anna Dela Cruz,Makati,Female,Blow Dry,26,316.7,GCash,Completed,3.3,True
+APT-00858,2025-10-28,Patricia Lim,Quezon City,Male,Keratin Treatment,271,3007.43,GCash,Completed,4.4,False
+APT-00859,2026-02-18,Maria Santos,BGC,Female,Balayage,192,2617.1,Credit Card,Completed,4.8,False
+APT-00860,2026-03-28,Marco Villanueva,Pasig,Female,Hair Spa,67,1143.23,Cash,Completed,4.4,False
+APT-00861,2026-01-11,Kevin Ramos,BGC,Male,Blow Dry,32,329.62,Credit Card,Completed,4.8,True
+APT-00862,2026-03-30,Kevin Ramos,Makati,Female,Toning,77,1670.54,Credit Card,Completed,4.8,False
+APT-00863,2025-03-04,Jose Reyes,BGC,Male,Perming,129,2992.97,Credit Card,Completed,4.5,False
+APT-00864,2025-01-14,Marco Villanueva,BGC,Female,Blow Dry,42,221.96,Maya,Completed,4.4,False
+APT-00865,2025-02-28,Ryan Castillo,Quezon City,Female,Blow Dry,24,412.73,GCash,Completed,3.7,False
+APT-00866,2025-08-13,Marco Villanueva,Makati,Female,Hair Spa,62,598.18,Cash,Completed,4.7,True
+APT-00867,2025-07-20,Kevin Ramos,Makati,Female,Haircut,51,308.96,GCash,Completed,4.5,False
+APT-00868,2025-12-12,Marco Villanueva,Ortigas,Female,Full Highlights,176,2564.6,GCash,Completed,4.4,True
+APT-00869,2025-07-13,Bianca Flores,Quezon City,Female,Blow Dry,27,430.13,Cash,Completed,3.7,True
+APT-00870,2026-02-25,Jose Reyes,Makati,Female,Balayage,235,2480.38,Credit Card,Completed,3.1,True
+APT-00871,2025-06-17,Anna Dela Cruz,BGC,Female,Perming,200,1984.02,Cash,Completed,3.4,True
+APT-00872,2025-06-15,Patricia Lim,Quezon City,Female,Scalp Treatment,42,756.26,Cash,Completed,4.3,True
+APT-00873,2025-11-29,Carlo Mendoza,Quezon City,Male,Blow Dry,21,387.17,GCash,Completed,3.1,True
+APT-00874,2025-10-02,Bianca Flores,Pasig,Female,Blow Dry,38,437.38,Credit Card,Rescheduled,,True
+APT-00875,2025-12-14,Jose Reyes,Pasig,Male,Keratin Treatment,278,4811.38,Maya,Rescheduled,,True
+APT-00876,2026-04-12,Anna Dela Cruz,Ortigas,Female,Hair Relaxing,138,1877.56,Credit Card,Completed,4.0,True
+APT-00877,2025-03-05,Kevin Ramos,Makati,Male,Scalp Treatment,53,877.96,GCash,Completed,3.9,True
+APT-00878,2025-03-19,Jose Reyes,Makati,Female,Hair Extension,202,4878.74,GCash,Completed,3.1,False
+APT-00879,2025-01-21,Ryan Castillo,BGC,Male,Toning,86,1320.87,Maya,Completed,4.3,False
+APT-00880,2026-04-10,Carlo Mendoza,Ortigas,Female,Haircut,37,571.19,Maya,Completed,4.6,True
+APT-00881,2025-02-03,Patricia Lim,Pasig,Female,Hair Extension,128,7349.33,Maya,Completed,4.9,True
+APT-00882,2026-03-02,Anna Dela Cruz,BGC,Female,Perming,146,2692.85,GCash,Completed,3.5,True
+APT-00883,2025-04-01,Marco Villanueva,Ortigas,Female,Blow Dry,29,381.76,GCash,Completed,3.6,False
+APT-00884,2025-07-23,Carlo Mendoza,Ortigas,Non-binary,Perming,180,2066.58,Credit Card,Completed,3.9,False
+APT-00885,2026-04-10,Marco Villanueva,Makati,Female,Full Highlights,196,3343.06,Credit Card,Completed,4.1,True
+APT-00886,2025-11-07,Patricia Lim,Quezon City,Female,Keratin Treatment,222,3702.11,Maya,Completed,3.3,False
+APT-00887,2026-01-07,Anna Dela Cruz,BGC,Female,Balayage,201,2935.64,Cash,Completed,4.9,False
+APT-00888,2025-02-06,Ryan Castillo,Quezon City,Non-binary,Toning,62,1208.79,Credit Card,Completed,5.0,True
+APT-00889,2026-01-30,Kevin Ramos,BGC,Non-binary,Blow Dry,43,473.93,GCash,Cancelled,,False
+APT-00890,2026-01-12,Marco Villanueva,Ortigas,Male,Scalp Treatment,45,822.11,Cash,Completed,3.1,False
+APT-00891,2025-03-17,Maria Santos,BGC,Male,Perming,197,1881.43,Maya,Completed,4.2,True
+APT-00892,2026-04-07,Jose Reyes,Makati,Female,Haircut,59,278.12,Credit Card,Completed,3.4,False
+APT-00893,2026-03-30,Patricia Lim,Ortigas,Female,Full Highlights,159,2265.58,Maya,Completed,4.5,True
+APT-00894,2026-01-19,Kevin Ramos,Ortigas,Female,Hair Coloring,129,1476.55,GCash,Completed,3.0,True
+APT-00895,2025-08-02,Maria Santos,Makati,Female,Hair Spa,72,958.16,Cash,Cancelled,,True
+APT-00896,2025-02-26,Ryan Castillo,BGC,Female,Full Highlights,147,2401.32,GCash,Completed,3.4,True
+APT-00897,2025-08-14,Anna Dela Cruz,BGC,Male,Toning,99,1426.84,Maya,Rescheduled,,True
+APT-00898,2025-02-02,Anna Dela Cruz,Makati,Female,Perming,194,2013.23,Maya,Completed,3.5,False
+APT-00899,2025-12-07,Jose Reyes,Makati,Non-binary,Perming,125,2373.67,Cash,Completed,3.2,True
+APT-00900,2025-06-22,Kevin Ramos,Pasig,Female,Blow Dry,30,381.31,Maya,Rescheduled,,False
+APT-00901,2025-07-13,Ryan Castillo,Ortigas,Male,Perming,165,2416.21,GCash,Rescheduled,,False
+APT-00902,2025-03-13,Maria Santos,Quezon City,Male,Hair Coloring,105,843.66,Credit Card,Completed,4.7,False
+APT-00903,2025-09-01,Carlo Mendoza,Ortigas,Male,Toning,102,1314.91,Credit Card,Completed,3.4,False
+APT-00904,2025-09-06,Ryan Castillo,Makati,Female,Haircut,49,390.06,Maya,Completed,4.6,False
+APT-00905,2025-03-15,Marco Villanueva,Makati,Female,Blow Dry,38,460.96,Credit Card,Completed,4.6,True
+APT-00906,2026-03-24,Marco Villanueva,Makati,Non-binary,Full Highlights,177,2433.61,Maya,Cancelled,,True
+APT-00907,2025-12-04,Chloe Aquino,BGC,Male,Hair Spa,51,989.94,GCash,Completed,3.9,True
+APT-00908,2025-09-01,Ryan Castillo,Quezon City,Female,Full Highlights,205,3403.01,Maya,Completed,3.2,True
+APT-00909,2026-01-28,Marco Villanueva,Makati,Male,Scalp Treatment,32,1431.46,Maya,No-show,,False
+APT-00910,2025-03-01,Patricia Lim,Pasig,Female,Blow Dry,23,287.29,Credit Card,Cancelled,,True
+APT-00911,2025-06-10,Kevin Ramos,BGC,Female,Hair Relaxing,163,2431.1,Cash,Completed,4.5,False
+APT-00912,2025-06-13,Kevin Ramos,Pasig,Non-binary,Haircut,55,519.95,GCash,Cancelled,,True
+APT-00913,2026-03-13,Kevin Ramos,Pasig,Female,Scalp Treatment,34,1014.54,GCash,Completed,4.6,False
+APT-00914,2025-12-07,Marco Villanueva,Quezon City,Female,Balayage,239,4122.82,GCash,Completed,3.1,False
+APT-00915,2025-09-02,Chloe Aquino,Makati,Male,Keratin Treatment,207,4077.69,Maya,Rescheduled,,False
+APT-00916,2026-03-11,Patricia Lim,Makati,Male,Keratin Treatment,283,4331.65,Maya,Completed,3.5,True
+APT-00917,2026-03-11,Marco Villanueva,Quezon City,Male,Full Highlights,122,1818.39,Maya,Rescheduled,,False
+APT-00918,2025-09-28,Patricia Lim,Quezon City,Female,Hair Relaxing,126,2090.13,Maya,Cancelled,,True
+APT-00919,2025-10-25,Chloe Aquino,Quezon City,Male,Toning,63,1665.86,Cash,Completed,4.7,False
+APT-00920,2026-04-05,Anna Dela Cruz,Pasig,Female,Hair Spa,58,601.38,GCash,Completed,4.6,True
+APT-00921,2026-03-16,Maria Santos,Ortigas,Male,Toning,120,947.61,Debit Card,Completed,5.0,True
+APT-00922,2025-09-21,Jose Reyes,Ortigas,Female,Haircut,48,477.53,Credit Card,Completed,3.9,True
+APT-00923,2025-06-04,Patricia Lim,BGC,Female,Perming,142,2531.98,Cash,Completed,4.3,False
+APT-00924,2025-07-08,Jose Reyes,Quezon City,Male,Toning,67,811.6,Credit Card,Completed,3.2,False
+APT-00925,2025-09-03,Chloe Aquino,BGC,Non-binary,Perming,132,1910.59,Cash,Completed,4.6,True
+APT-00926,2025-02-02,Marco Villanueva,Quezon City,Female,Blow Dry,45,414.13,Maya,Completed,4.1,False
+APT-00927,2025-09-29,Maria Santos,Quezon City,Male,Toning,93,1288.56,Debit Card,Cancelled,,True
+APT-00928,2025-08-17,Jose Reyes,BGC,Female,Balayage,165,4001.28,Debit Card,Completed,3.1,True
+APT-00929,2025-02-13,Anna Dela Cruz,Makati,Male,Perming,184,2969.89,Debit Card,Completed,3.6,True
+APT-00930,2026-04-09,Maria Santos,BGC,Male,Blow Dry,41,434.84,Maya,Completed,4.1,True
+APT-00931,2025-11-07,Marco Villanueva,Ortigas,Non-binary,Hair Extension,146,5691.05,Debit Card,No-show,,True
+APT-00932,2026-03-03,Maria Santos,BGC,Female,Perming,137,1822.82,Cash,Completed,4.2,True
+APT-00933,2025-10-09,Ryan Castillo,Ortigas,Female,Hair Extension,168,4274.84,GCash,Completed,4.3,True
+APT-00934,2025-03-15,Marco Villanueva,Makati,Male,Blow Dry,22,360.77,Maya,Completed,4.3,False
+APT-00935,2025-11-06,Carlo Mendoza,Ortigas,Male,Perming,139,1746.06,Debit Card,Completed,3.6,False
+APT-00936,2025-02-26,Maria Santos,Pasig,Female,Blow Dry,33,405.19,GCash,Completed,3.1,True
+APT-00937,2025-01-06,Ryan Castillo,Ortigas,Female,Hair Relaxing,118,1146.92,GCash,No-show,,False
+APT-00938,2026-02-25,Jose Reyes,BGC,Female,Hair Coloring,102,2171.56,Debit Card,Completed,4.1,False
+APT-00939,2026-04-30,Bianca Flores,Pasig,Female,Scalp Treatment,35,1276.69,Cash,No-show,,False
+APT-00940,2025-10-31,Chloe Aquino,Pasig,Female,Toning,60,927.57,Debit Card,No-show,,True
+APT-00941,2026-04-16,Anna Dela Cruz,BGC,Female,Perming,167,2588.13,Credit Card,Completed,4.4,True
+APT-00942,2026-02-13,Kevin Ramos,Quezon City,Non-binary,Perming,156,2203.0,Credit Card,Completed,3.6,False
+APT-00943,2025-06-10,Carlo Mendoza,Ortigas,Female,Scalp Treatment,50,1360.72,Cash,Rescheduled,,True
+APT-00944,2025-05-27,Carlo Mendoza,Makati,Female,Hair Coloring,153,1742.07,GCash,Completed,4.6,True
+APT-00945,2025-12-13,Chloe Aquino,BGC,Male,Blow Dry,42,466.42,Credit Card,Completed,3.2,True
+APT-00946,2025-05-06,Carlo Mendoza,Makati,Male,Hair Extension,204,7971.11,Credit Card,Completed,4.9,True
+APT-00947,2025-07-07,Marco Villanueva,BGC,Female,Hair Extension,185,7197.04,Debit Card,No-show,,False
+APT-00948,2025-06-23,Patricia Lim,Quezon City,Non-binary,Haircut,37,569.92,Credit Card,Completed,4.7,True
+APT-00949,2025-11-20,Bianca Flores,Quezon City,Female,Keratin Treatment,207,3922.1,Maya,Completed,4.8,True
+APT-00950,2025-06-18,Kevin Ramos,Quezon City,Female,Hair Spa,51,708.85,Cash,Completed,3.0,True
+APT-00951,2025-09-28,Ryan Castillo,Makati,Female,Blow Dry,24,354.3,Cash,Completed,3.8,False
+APT-00952,2025-07-06,Anna Dela Cruz,Ortigas,Female,Haircut,35,399.92,GCash,Completed,4.1,False
+APT-00953,2025-01-03,Marco Villanueva,Quezon City,Male,Hair Coloring,180,1410.7,GCash,Completed,3.4,True
+APT-00954,2025-01-17,Maria Santos,BGC,Female,Keratin Treatment,205,2900.78,Credit Card,Completed,4.9,False
+APT-00955,2025-03-07,Patricia Lim,Quezon City,Male,Hair Coloring,141,1352.31,Debit Card,Completed,4.0,False
+APT-00956,2025-01-07,Jose Reyes,Makati,Female,Full Highlights,150,3034.77,Cash,Completed,3.1,False
+APT-00957,2025-02-12,Kevin Ramos,Makati,Female,Blow Dry,27,428.27,Credit Card,Completed,4.2,True
+APT-00958,2026-02-25,Bianca Flores,Makati,Female,Balayage,210,3072.9,Maya,Rescheduled,,True
+APT-00959,2025-11-19,Chloe Aquino,Pasig,Male,Toning,74,1434.48,GCash,Completed,3.2,False
+APT-00960,2025-02-16,Bianca Flores,BGC,Female,Haircut,42,552.52,GCash,Completed,3.8,False
+APT-00961,2025-08-07,Carlo Mendoza,BGC,Female,Toning,79,1443.87,Maya,Completed,3.2,False
+APT-00962,2025-01-21,Ryan Castillo,Quezon City,Female,Keratin Treatment,264,2501.34,GCash,Completed,4.5,True
+APT-00963,2025-09-09,Marco Villanueva,Ortigas,Female,Keratin Treatment,218,3408.95,Debit Card,Completed,3.2,True
+APT-00964,2026-01-16,Chloe Aquino,BGC,Male,Perming,187,2668.21,Maya,Completed,4.2,True
+APT-00965,2025-03-08,Bianca Flores,BGC,Male,Perming,197,2444.34,Debit Card,Completed,3.2,True
+APT-00966,2025-06-04,Marco Villanueva,Makati,Female,Balayage,175,3813.38,Cash,Rescheduled,,True
+APT-00967,2026-03-26,Anna Dela Cruz,BGC,Female,Haircut,57,515.77,Credit Card,Completed,4.8,False
+APT-00968,2026-04-22,Marco Villanueva,Makati,Female,Hair Relaxing,92,2428.67,Credit Card,Completed,3.3,False
+APT-00969,2025-12-22,Anna Dela Cruz,Ortigas,Female,Toning,112,990.19,Cash,Rescheduled,,False
+APT-00970,2025-07-16,Chloe Aquino,Pasig,Male,Hair Spa,69,893.75,Cash,Completed,3.8,False
+APT-00971,2025-01-05,Anna Dela Cruz,Makati,Female,Balayage,215,4197.89,GCash,Completed,3.9,False
+APT-00972,2025-01-24,Carlo Mendoza,Ortigas,Female,Keratin Treatment,217,3833.91,Maya,Completed,3.1,True
+APT-00973,2026-02-26,Anna Dela Cruz,Ortigas,Female,Keratin Treatment,194,3024.93,Cash,Completed,3.0,False
+APT-00974,2025-10-09,Kevin Ramos,Ortigas,Male,Perming,137,1896.06,Maya,Completed,3.8,False
+APT-00975,2025-04-01,Maria Santos,Makati,Non-binary,Hair Relaxing,92,1383.98,Maya,Completed,4.1,True
+APT-00976,2025-04-23,Patricia Lim,Ortigas,Male,Toning,73,1124.26,Debit Card,Completed,4.2,False
+APT-00977,2025-02-17,Marco Villanueva,BGC,Male,Full Highlights,178,2491.92,Credit Card,Completed,3.4,True
+APT-00978,2025-03-25,Kevin Ramos,Quezon City,Female,Balayage,200,4213.13,GCash,Completed,4.4,True
+APT-00979,2025-07-26,Anna Dela Cruz,Makati,Male,Hair Coloring,157,970.4,Credit Card,Completed,3.3,True
+APT-00980,2026-01-26,Jose Reyes,Quezon City,Male,Hair Extension,239,7152.59,Credit Card,Completed,3.1,True
+APT-00981,2026-02-10,Bianca Flores,BGC,Non-binary,Hair Coloring,133,980.78,Debit Card,Completed,4.7,True
+APT-00982,2025-06-07,Anna Dela Cruz,Quezon City,Male,Balayage,169,2829.39,Debit Card,No-show,,True
+APT-00983,2025-02-22,Chloe Aquino,Ortigas,Male,Haircut,33,440.62,Debit Card,Completed,4.0,False
+APT-00984,2025-06-30,Maria Santos,BGC,Female,Full Highlights,148,2810.73,Cash,Completed,4.8,False
+APT-00985,2025-05-25,Jose Reyes,Quezon City,Female,Perming,198,2035.96,GCash,Rescheduled,,False
+APT-00986,2025-09-29,Ryan Castillo,Makati,Female,Hair Coloring,113,1369.23,Cash,Completed,4.4,True
+APT-00987,2026-04-15,Bianca Flores,Pasig,Female,Perming,167,2248.88,Maya,Completed,4.9,True
+APT-00988,2026-02-12,Anna Dela Cruz,BGC,Female,Haircut,45,524.94,Maya,Completed,4.6,True
+APT-00989,2025-04-04,Patricia Lim,Ortigas,Non-binary,Hair Extension,165,6837.68,GCash,Completed,3.6,False
+APT-00990,2026-04-17,Patricia Lim,Pasig,Male,Hair Spa,71,672.14,Maya,Completed,4.1,False
+APT-00991,2025-09-27,Chloe Aquino,BGC,Male,Scalp Treatment,52,1120.09,Credit Card,Completed,4.6,True
+APT-00992,2025-01-09,Jose Reyes,BGC,Non-binary,Toning,90,1162.4,Maya,Completed,4.9,True
+APT-00993,2026-03-13,Ryan Castillo,Ortigas,Female,Haircut,59,443.03,GCash,Completed,4.8,True
+APT-00994,2025-03-15,Carlo Mendoza,Makati,Male,Balayage,153,2943.65,GCash,Completed,4.4,False
+APT-00995,2026-03-22,Maria Santos,Makati,Male,Hair Relaxing,108,1237.26,Debit Card,Completed,3.7,True
+APT-00996,2026-01-27,Jose Reyes,Makati,Female,Balayage,167,2456.06,Debit Card,Cancelled,,False
+APT-00997,2025-05-27,Patricia Lim,Ortigas,Male,Hair Spa,48,577.89,Credit Card,Cancelled,,True
+APT-00998,2025-12-15,Anna Dela Cruz,Pasig,Male,Hair Extension,178,7741.21,GCash,Completed,4.1,False
+APT-00999,2025-02-17,Chloe Aquino,Ortigas,Female,Hair Extension,136,5607.51,GCash,Completed,4.5,False
+APT-01000,2025-10-14,Maria Santos,BGC,Male,Hair Extension,129,6025.42,Credit Card,Completed,4.6,False
+APT-01001,2025-11-28,Ryan Castillo,Quezon City,Male,Hair Spa,62,796.96,Credit Card,Completed,3.2,True
+APT-01002,2025-02-24,Kevin Ramos,Ortigas,Female,Hair Relaxing,166,1097.98,Cash,Completed,3.0,False
+APT-01003,2025-10-19,Chloe Aquino,BGC,Female,Balayage,222,3411.99,Cash,Completed,5.0,False
+APT-01004,2025-07-02,Maria Santos,Ortigas,Female,Haircut,60,513.09,Cash,Rescheduled,,False
+APT-01005,2025-12-26,Carlo Mendoza,Ortigas,Non-binary,Scalp Treatment,40,1207.22,Credit Card,Completed,3.8,True
+APT-01006,2026-03-21,Anna Dela Cruz,Makati,Female,Scalp Treatment,39,1366.82,Debit Card,Cancelled,,True
+APT-01007,2025-04-21,Marco Villanueva,Makati,Female,Full Highlights,203,3114.95,Cash,Rescheduled,,True
+APT-01008,2025-09-25,Anna Dela Cruz,Pasig,Female,Toning,81,1730.23,Debit Card,Rescheduled,,False
+APT-01009,2025-01-21,Ryan Castillo,Ortigas,Male,Full Highlights,207,3281.36,Maya,Completed,3.8,True
+APT-01010,2025-02-19,Kevin Ramos,Makati,Non-binary,Hair Extension,138,7023.63,GCash,Completed,4.5,False
+APT-01011,2025-06-01,Jose Reyes,Quezon City,Female,Scalp Treatment,38,745.33,Cash,Completed,4.2,False
+APT-01012,2025-05-12,Jose Reyes,BGC,Female,Hair Coloring,146,2097.35,Credit Card,Completed,4.3,True
+APT-01013,2025-07-29,Kevin Ramos,Quezon City,Female,Hair Coloring,177,2256.9,Cash,Completed,3.3,False
+APT-01014,2025-08-19,Kevin Ramos,Ortigas,Female,Scalp Treatment,58,836.54,Maya,Completed,5.0,True
+APT-01015,2025-05-29,Maria Santos,BGC,Male,Hair Extension,192,4879.11,Debit Card,Completed,3.8,True
+APT-01016,2025-10-01,Patricia Lim,Quezon City,Female,Balayage,209,4250.32,Cash,Completed,3.2,True
+APT-01017,2025-06-12,Jose Reyes,Quezon City,Female,Toning,98,1142.42,Credit Card,Completed,4.0,False
+APT-01018,2025-03-16,Bianca Flores,Quezon City,Male,Hair Coloring,130,1888.37,Cash,Completed,4.1,False
+APT-01019,2025-01-12,Ryan Castillo,Quezon City,Female,Haircut,51,583.43,Credit Card,Completed,3.8,False
+APT-01020,2025-06-02,Anna Dela Cruz,Makati,Female,Perming,177,2810.66,GCash,Completed,4.7,True
+APT-01021,2025-06-25,Bianca Flores,BGC,Male,Perming,158,2945.05,Cash,Completed,3.3,False
+APT-01022,2025-12-23,Marco Villanueva,Quezon City,Female,Blow Dry,42,331.04,Debit Card,Completed,4.1,True
+APT-01023,2025-03-16,Kevin Ramos,BGC,Female,Scalp Treatment,56,891.36,Cash,Completed,4.9,False
+APT-01024,2026-02-10,Anna Dela Cruz,Quezon City,Female,Haircut,43,589.49,GCash,Completed,3.5,True
+APT-01025,2025-04-07,Anna Dela Cruz,Quezon City,Female,Hair Spa,79,794.12,Debit Card,Completed,4.5,False
+APT-01026,2025-01-08,Ryan Castillo,BGC,Female,Balayage,196,2925.64,GCash,Rescheduled,,True
+APT-01027,2025-08-22,Bianca Flores,Pasig,Female,Keratin Treatment,225,3535.13,Cash,Completed,3.7,False
+APT-01028,2025-10-11,Ryan Castillo,Makati,Female,Scalp Treatment,47,1135.4,GCash,Completed,3.9,False
+APT-01029,2025-02-20,Patricia Lim,Ortigas,Male,Perming,133,2993.04,Debit Card,Rescheduled,,True
+APT-01030,2025-11-16,Maria Santos,Pasig,Male,Perming,132,2890.84,Credit Card,Completed,4.3,True
+APT-01031,2025-07-15,Bianca Flores,Quezon City,Female,Perming,180,1671.75,GCash,Completed,4.9,False
+APT-01032,2025-09-17,Patricia Lim,Quezon City,Male,Hair Spa,87,698.52,Cash,Rescheduled,,False
+APT-01033,2025-01-08,Patricia Lim,BGC,Female,Keratin Treatment,281,2565.62,Cash,No-show,,False
+APT-01034,2025-08-09,Kevin Ramos,Ortigas,Female,Scalp Treatment,42,817.65,Maya,Completed,3.4,False
+APT-01035,2026-01-08,Kevin Ramos,Quezon City,Female,Haircut,58,310.8,GCash,Rescheduled,,False
+APT-01036,2025-09-16,Anna Dela Cruz,Quezon City,Male,Scalp Treatment,48,706.54,GCash,Completed,4.6,False
+APT-01037,2025-01-06,Anna Dela Cruz,Ortigas,Female,Scalp Treatment,48,1166.0,GCash,Completed,3.3,True
+APT-01038,2026-02-03,Patricia Lim,Makati,Female,Hair Extension,150,4790.61,GCash,Rescheduled,,True
+APT-01039,2025-07-13,Carlo Mendoza,Pasig,Male,Keratin Treatment,264,4425.98,GCash,Completed,3.1,True
+APT-01040,2025-03-04,Maria Santos,Pasig,Male,Full Highlights,156,1714.15,Cash,Completed,3.5,True
+APT-01041,2025-02-21,Jose Reyes,Quezon City,Female,Hair Coloring,92,1634.76,Maya,No-show,,False
+APT-01042,2025-06-10,Marco Villanueva,Makati,Female,Hair Coloring,147,1877.04,GCash,Completed,4.6,True
+APT-01043,2025-03-02,Maria Santos,BGC,Male,Keratin Treatment,224,4939.79,Debit Card,Completed,4.0,True
+APT-01044,2025-01-12,Chloe Aquino,Ortigas,Female,Full Highlights,139,2535.99,Cash,Completed,3.4,False
+APT-01045,2025-12-21,Carlo Mendoza,Makati,Female,Hair Coloring,124,2397.74,Maya,Completed,3.5,True
+APT-01046,2025-08-12,Ryan Castillo,Pasig,Male,Hair Coloring,141,1671.52,Maya,Completed,4.8,False
+APT-01047,2025-10-28,Carlo Mendoza,Ortigas,Male,Full Highlights,146,2123.17,Credit Card,Completed,4.9,False
+APT-01048,2025-11-15,Marco Villanueva,Quezon City,Male,Blow Dry,32,232.27,Debit Card,Completed,3.9,False
+APT-01049,2025-05-10,Jose Reyes,Quezon City,Non-binary,Hair Relaxing,127,1880.3,GCash,No-show,,False
+APT-01050,2025-04-06,Maria Santos,Makati,Female,Blow Dry,22,307.32,GCash,Cancelled,,True
+APT-01051,2025-06-13,Ryan Castillo,Ortigas,Female,Perming,162,2532.44,GCash,Cancelled,,True
+APT-01052,2025-11-05,Kevin Ramos,Ortigas,Female,Hair Spa,58,648.52,GCash,Completed,3.2,False
+APT-01053,2026-01-23,Kevin Ramos,Makati,Female,Toning,112,1235.21,Debit Card,No-show,,False
+APT-01054,2025-08-04,Carlo Mendoza,Makati,Non-binary,Balayage,207,2298.15,Credit Card,Completed,3.3,False
+APT-01055,2026-02-06,Patricia Lim,BGC,Female,Hair Extension,120,7280.52,Debit Card,Completed,4.8,False
+APT-01056,2025-11-27,Patricia Lim,Makati,Female,Full Highlights,180,1532.54,Debit Card,No-show,,True
+APT-01057,2025-10-12,Bianca Flores,Ortigas,Female,Blow Dry,35,432.38,Maya,Cancelled,,True
+APT-01058,2025-03-04,Bianca Flores,Quezon City,Non-binary,Blow Dry,39,452.92,Credit Card,Cancelled,,True
+APT-01059,2026-03-18,Carlo Mendoza,Makati,Non-binary,Haircut,43,490.66,Cash,Completed,3.5,True
+APT-01060,2025-05-13,Ryan Castillo,Pasig,Male,Balayage,155,4208.3,Cash,Rescheduled,,True
+APT-01061,2026-02-20,Bianca Flores,Makati,Female,Haircut,52,382.84,Maya,Completed,3.3,True
+APT-01062,2025-10-27,Marco Villanueva,Makati,Female,Hair Extension,234,7438.99,GCash,Completed,3.8,False
+APT-01063,2025-09-08,Jose Reyes,Pasig,Female,Perming,161,2964.52,Debit Card,Completed,4.5,False
+APT-01064,2026-03-04,Jose Reyes,Ortigas,Female,Balayage,234,4182.18,Maya,Completed,4.3,True
+APT-01065,2025-04-21,Jose Reyes,Makati,Female,Toning,84,1268.15,Credit Card,Completed,3.4,True
+APT-01066,2026-04-29,Carlo Mendoza,Pasig,Female,Hair Relaxing,148,1467.74,Debit Card,Completed,4.3,True
+APT-01067,2025-09-20,Carlo Mendoza,Ortigas,Male,Full Highlights,171,1906.04,Credit Card,Rescheduled,,True
+APT-01068,2025-10-23,Bianca Flores,Quezon City,Non-binary,Hair Coloring,108,1902.25,GCash,Completed,3.9,True
+APT-01069,2025-01-15,Jose Reyes,BGC,Female,Toning,93,1276.24,Cash,No-show,,False
+APT-01070,2025-03-19,Bianca Flores,Makati,Female,Hair Relaxing,145,1595.39,Debit Card,Completed,4.0,True
+APT-01071,2026-04-21,Bianca Flores,Ortigas,Female,Hair Spa,63,795.81,Cash,Completed,3.4,True
+APT-01072,2025-12-15,Bianca Flores,Pasig,Female,Hair Extension,151,3249.36,Debit Card,Completed,4.9,True
+APT-01073,2025-02-21,Maria Santos,Makati,Female,Hair Coloring,169,1268.28,Debit Card,Completed,4.4,False
+APT-01074,2025-05-18,Patricia Lim,Makati,Male,Blow Dry,25,348.55,GCash,Completed,4.6,False
+APT-01075,2025-09-15,Bianca Flores,Pasig,Female,Perming,199,2861.67,Maya,Completed,4.0,False
+APT-01076,2025-06-20,Carlo Mendoza,BGC,Female,Toning,69,1699.87,Maya,Completed,4.9,False
+APT-01077,2025-03-29,Ryan Castillo,Makati,Male,Blow Dry,20,403.76,GCash,Rescheduled,,False
+APT-01078,2025-01-24,Kevin Ramos,Makati,Female,Hair Spa,81,1073.25,Credit Card,No-show,,False
+APT-01079,2025-02-21,Chloe Aquino,Pasig,Male,Balayage,192,2761.51,GCash,Cancelled,,False
+APT-01080,2025-08-23,Ryan Castillo,Pasig,Female,Hair Spa,67,509.49,Maya,Completed,3.6,False
+APT-01081,2025-11-24,Kevin Ramos,Quezon City,Female,Scalp Treatment,43,618.65,Cash,Completed,4.7,True
+APT-01082,2025-08-09,Marco Villanueva,Makati,Male,Hair Relaxing,101,1539.13,GCash,Completed,3.4,False
+APT-01083,2026-03-25,Jose Reyes,Ortigas,Female,Perming,153,2290.36,Debit Card,No-show,,False
+APT-01084,2025-04-08,Patricia Lim,Pasig,Female,Hair Relaxing,156,1061.65,Credit Card,Rescheduled,,False
+APT-01085,2025-06-27,Jose Reyes,Quezon City,Male,Hair Extension,121,4442.04,Credit Card,Completed,4.0,True
+APT-01086,2025-06-05,Anna Dela Cruz,Pasig,Male,Hair Spa,49,840.78,Maya,Completed,4.6,True
+APT-01087,2025-09-08,Maria Santos,BGC,Female,Hair Spa,72,714.08,Maya,Cancelled,,False
+APT-01088,2026-02-07,Maria Santos,Makati,Male,Perming,205,2788.52,Maya,Completed,4.9,True
+APT-01089,2025-05-29,Bianca Flores,BGC,Male,Hair Coloring,150,1172.06,GCash,Completed,4.9,True
+APT-01090,2025-05-14,Patricia Lim,Quezon City,Female,Perming,196,2880.29,Credit Card,Rescheduled,,False
+APT-01091,2026-01-29,Kevin Ramos,Quezon City,Female,Full Highlights,137,1899.01,Maya,Cancelled,,False
+APT-01092,2025-11-18,Carlo Mendoza,Ortigas,Female,Scalp Treatment,35,1015.04,Maya,Completed,3.8,False
+APT-01093,2025-12-17,Anna Dela Cruz,Pasig,Female,Hair Coloring,149,2011.42,Credit Card,Completed,3.7,False
+APT-01094,2026-01-28,Patricia Lim,Quezon City,Female,Blow Dry,44,326.28,Cash,No-show,,True
+APT-01095,2025-10-06,Bianca Flores,BGC,Female,Hair Extension,232,7499.56,Debit Card,Completed,3.6,False
+APT-01096,2025-08-24,Patricia Lim,Makati,Male,Full Highlights,130,3178.4,Credit Card,Cancelled,,True
+APT-01097,2025-09-04,Jose Reyes,Ortigas,Female,Keratin Treatment,290,4226.48,Debit Card,Completed,3.1,True
+APT-01098,2025-03-11,Carlo Mendoza,Pasig,Non-binary,Toning,103,1023.54,GCash,Completed,4.3,True
+APT-01099,2025-02-04,Bianca Flores,Makati,Female,Keratin Treatment,257,2500.09,Credit Card,Completed,4.8,True
+APT-01100,2025-07-20,Carlo Mendoza,Makati,Female,Balayage,165,2139.13,Credit Card,Completed,3.6,False
+APT-01101,2026-03-16,Carlo Mendoza,Pasig,Male,Full Highlights,135,2816.32,Maya,Cancelled,,False
+APT-01102,2025-03-29,Maria Santos,BGC,Male,Full Highlights,209,2523.03,GCash,Cancelled,,True
+APT-01103,2025-09-10,Marco Villanueva,Ortigas,Non-binary,Hair Spa,62,757.14,Maya,Completed,3.8,True
+APT-01104,2025-10-16,Patricia Lim,Quezon City,Female,Hair Spa,82,772.6,GCash,Completed,3.6,False
+APT-01105,2025-01-05,Ryan Castillo,BGC,Female,Haircut,41,593.61,Credit Card,No-show,,True
+APT-01106,2025-06-30,Chloe Aquino,Quezon City,Male,Hair Relaxing,162,1983.9,Debit Card,Completed,3.7,True
+APT-01107,2025-07-12,Bianca Flores,Quezon City,Female,Keratin Treatment,257,4906.39,Cash,No-show,,True
+APT-01108,2025-10-25,Chloe Aquino,Pasig,Female,Hair Extension,199,4740.48,Maya,Completed,4.7,True
+APT-01109,2026-04-24,Maria Santos,BGC,Female,Haircut,40,487.76,GCash,Completed,4.5,True
+APT-01110,2025-05-09,Anna Dela Cruz,Quezon City,Female,Hair Coloring,99,994.61,Credit Card,No-show,,False
+APT-01111,2025-07-13,Kevin Ramos,Makati,Male,Hair Relaxing,171,1199.82,GCash,Completed,4.1,True
+APT-01112,2026-01-15,Bianca Flores,Quezon City,Female,Balayage,217,2405.22,Credit Card,Completed,4.6,True
+APT-01113,2026-04-03,Kevin Ramos,Makati,Male,Hair Coloring,142,808.9,Cash,Completed,4.1,True
+APT-01114,2026-02-28,Anna Dela Cruz,Pasig,Female,Hair Relaxing,135,1710.6,Credit Card,Completed,3.7,True
+APT-01115,2025-03-07,Marco Villanueva,Quezon City,Female,Hair Coloring,128,2130.06,Credit Card,No-show,,True
+APT-01116,2025-04-25,Marco Villanueva,BGC,Female,Hair Coloring,127,2196.26,Cash,Completed,4.8,False
+APT-01117,2025-10-22,Ryan Castillo,Makati,Female,Blow Dry,36,272.42,GCash,Rescheduled,,False
+APT-01118,2025-08-30,Kevin Ramos,Makati,Female,Blow Dry,28,481.08,Debit Card,Completed,4.3,True
+APT-01119,2025-03-13,Patricia Lim,Ortigas,Male,Hair Relaxing,132,1306.35,GCash,Completed,4.8,True
+APT-01120,2026-01-27,Marco Villanueva,Makati,Male,Balayage,194,4018.72,Debit Card,No-show,,True
+APT-01121,2025-03-08,Kevin Ramos,Pasig,Female,Blow Dry,21,281.15,Cash,No-show,,True
+APT-01122,2025-06-05,Marco Villanueva,Pasig,Female,Haircut,58,523.54,GCash,Completed,4.9,True
+APT-01123,2025-12-17,Maria Santos,BGC,Female,Haircut,47,508.27,Debit Card,Completed,4.0,False
+APT-01124,2025-03-02,Anna Dela Cruz,Quezon City,Female,Blow Dry,31,469.14,Credit Card,Completed,3.7,False
+APT-01125,2025-07-31,Maria Santos,BGC,Female,Blow Dry,45,424.24,GCash,Completed,4.6,True
+APT-01126,2025-05-25,Carlo Mendoza,Makati,Female,Haircut,41,265.3,Cash,Completed,4.2,True
+APT-01127,2025-02-09,Anna Dela Cruz,Pasig,Female,Keratin Treatment,300,2690.94,Credit Card,Completed,4.1,False
+APT-01128,2026-02-04,Ryan Castillo,BGC,Male,Toning,115,1351.41,Credit Card,Completed,4.3,False
+APT-01129,2025-12-28,Chloe Aquino,Pasig,Male,Hair Relaxing,152,2425.85,Cash,Completed,3.6,True
+APT-01130,2025-07-10,Chloe Aquino,BGC,Female,Full Highlights,138,2949.82,Maya,Completed,3.1,True
+APT-01131,2025-05-19,Marco Villanueva,Quezon City,Male,Toning,84,1077.97,Cash,Completed,3.6,True
+APT-01132,2025-07-16,Bianca Flores,Pasig,Male,Haircut,37,405.41,Credit Card,Completed,3.4,True
+APT-01133,2026-01-26,Patricia Lim,Pasig,Female,Perming,123,2021.71,Cash,Completed,4.8,False
+APT-01134,2025-08-11,Kevin Ramos,BGC,Male,Keratin Treatment,280,4664.36,Cash,Completed,4.5,True
+APT-01135,2025-08-26,Chloe Aquino,Quezon City,Male,Hair Coloring,162,1520.52,Maya,No-show,,False
+APT-01136,2026-02-14,Patricia Lim,Quezon City,Female,Full Highlights,155,2865.2,GCash,Completed,3.2,True
+APT-01137,2025-07-05,Bianca Flores,Ortigas,Female,Scalp Treatment,38,841.87,Debit Card,Completed,4.6,True
+APT-01138,2025-08-16,Bianca Flores,Pasig,Male,Hair Coloring,146,1586.63,Maya,Cancelled,,True
+APT-01139,2025-07-29,Maria Santos,Ortigas,Female,Hair Spa,50,541.01,Credit Card,Completed,3.6,False
+APT-01140,2026-03-21,Marco Villanueva,BGC,Female,Hair Coloring,119,1641.38,Maya,Cancelled,,True
+APT-01141,2025-12-17,Kevin Ramos,Makati,Female,Full Highlights,176,2513.44,GCash,Completed,4.2,True
+APT-01142,2026-03-09,Carlo Mendoza,Makati,Female,Scalp Treatment,41,1371.74,Maya,Rescheduled,,True
+APT-01143,2025-09-19,Carlo Mendoza,Ortigas,Female,Hair Extension,146,3387.25,Cash,Completed,3.7,False
+APT-01144,2025-06-17,Patricia Lim,Makati,Female,Perming,166,2410.45,Credit Card,No-show,,False
+APT-01145,2025-01-23,Ryan Castillo,Quezon City,Female,Blow Dry,24,287.26,Maya,Completed,4.8,True
+APT-01146,2025-09-18,Kevin Ramos,BGC,Male,Hair Coloring,134,2131.89,Maya,Completed,4.9,False
+APT-01147,2025-02-09,Maria Santos,BGC,Female,Hair Extension,148,7793.13,Credit Card,Cancelled,,False
+APT-01148,2025-09-24,Jose Reyes,Pasig,Male,Scalp Treatment,38,996.92,Cash,Completed,3.4,False
+APT-01149,2025-03-01,Ryan Castillo,BGC,Female,Balayage,206,3732.68,Maya,Completed,4.5,False
+APT-01150,2025-12-01,Jose Reyes,Ortigas,Male,Hair Relaxing,119,1726.23,Debit Card,Completed,3.9,False
+APT-01151,2025-12-12,Kevin Ramos,BGC,Male,Balayage,167,3461.89,Debit Card,Completed,4.2,False
+APT-01152,2025-03-17,Ryan Castillo,Makati,Female,Hair Relaxing,170,1864.02,Cash,Completed,4.8,True
+APT-01153,2025-10-11,Marco Villanueva,Makati,Female,Full Highlights,180,2922.76,GCash,Completed,4.5,True
+APT-01154,2026-03-20,Patricia Lim,Makati,Female,Haircut,42,435.26,GCash,Rescheduled,,False
+APT-01155,2025-06-22,Anna Dela Cruz,Quezon City,Female,Hair Relaxing,133,2346.14,Debit Card,Completed,4.2,True
+APT-01156,2025-11-19,Maria Santos,Makati,Male,Toning,113,1249.75,Maya,Rescheduled,,False
+APT-01157,2026-02-24,Marco Villanueva,BGC,Female,Keratin Treatment,190,4841.55,GCash,Completed,3.3,True
+APT-01158,2025-09-18,Kevin Ramos,Ortigas,Female,Hair Extension,155,6612.67,Credit Card,Completed,4.9,True
+APT-01159,2025-09-26,Bianca Flores,Quezon City,Female,Balayage,204,3449.57,Maya,Completed,3.6,False
+APT-01160,2026-01-10,Anna Dela Cruz,BGC,Male,Hair Relaxing,156,1316.02,Cash,Cancelled,,False
+APT-01161,2025-05-28,Kevin Ramos,Ortigas,Female,Hair Extension,176,4369.24,Cash,Completed,3.4,True
+APT-01162,2025-03-14,Bianca Flores,Pasig,Male,Keratin Treatment,250,2739.94,Cash,No-show,,True
+APT-01163,2025-09-08,Kevin Ramos,Makati,Female,Haircut,30,541.38,Debit Card,Completed,3.7,False
+APT-01164,2026-04-16,Patricia Lim,Quezon City,Female,Hair Extension,210,3548.07,Debit Card,Completed,4.8,True
+APT-01165,2025-05-23,Patricia Lim,Quezon City,Female,Hair Spa,52,1012.14,Maya,Completed,4.9,True
+APT-01166,2025-08-21,Carlo Mendoza,Makati,Female,Toning,92,1430.62,Maya,Completed,4.3,True
+APT-01167,2025-09-24,Ryan Castillo,Makati,Male,Toning,113,1117.53,Credit Card,Completed,4.1,True
+APT-01168,2025-04-23,Maria Santos,BGC,Male,Perming,153,2510.02,GCash,Completed,3.9,False
+APT-01169,2025-09-22,Marco Villanueva,Ortigas,Male,Full Highlights,147,3214.31,GCash,Completed,3.0,True
+APT-01170,2025-12-19,Chloe Aquino,Pasig,Female,Hair Spa,69,684.15,GCash,Completed,4.3,True
+APT-01171,2025-06-03,Ryan Castillo,Quezon City,Female,Perming,157,2761.04,Debit Card,Completed,4.3,False
+APT-01172,2025-04-23,Patricia Lim,Pasig,Female,Perming,156,1668.55,Maya,Completed,3.8,False
+APT-01173,2025-12-05,Carlo Mendoza,Quezon City,Non-binary,Hair Relaxing,179,1170.3,Cash,Completed,3.8,True
+APT-01174,2025-05-18,Marco Villanueva,Pasig,Female,Hair Spa,71,855.24,Credit Card,Completed,3.1,False
+APT-01175,2025-05-14,Ryan Castillo,Quezon City,Female,Keratin Treatment,214,4780.92,Credit Card,Cancelled,,False
+APT-01176,2025-10-21,Carlo Mendoza,Ortigas,Female,Toning,94,1675.62,Cash,Completed,3.4,True
+APT-01177,2026-01-05,Kevin Ramos,Ortigas,Female,Hair Extension,168,3105.59,GCash,Completed,3.2,False
+APT-01178,2025-04-12,Chloe Aquino,Makati,Female,Hair Relaxing,158,2477.83,Cash,Completed,3.8,True
+APT-01179,2025-05-08,Anna Dela Cruz,Ortigas,Female,Keratin Treatment,184,4850.03,Maya,Completed,4.7,True
+APT-01180,2025-04-28,Patricia Lim,Quezon City,Female,Scalp Treatment,52,1168.4,Cash,Completed,3.5,False
+APT-01181,2025-05-19,Jose Reyes,Quezon City,Male,Toning,64,1661.98,Credit Card,Completed,3.1,False
+APT-01182,2025-10-29,Maria Santos,Pasig,Female,Haircut,36,527.42,Debit Card,No-show,,False
+APT-01183,2025-02-21,Patricia Lim,Pasig,Female,Hair Relaxing,173,1396.4,Cash,Completed,4.2,False
+APT-01184,2025-09-05,Patricia Lim,Makati,Female,Keratin Treatment,269,3211.06,GCash,Rescheduled,,True
+APT-01185,2026-01-01,Maria Santos,Quezon City,Male,Blow Dry,27,232.49,Credit Card,Rescheduled,,True
+APT-01186,2025-06-09,Carlo Mendoza,Quezon City,Female,Blow Dry,45,299.73,Maya,Completed,4.3,True
+APT-01187,2025-05-08,Chloe Aquino,BGC,Female,Hair Coloring,141,942.61,GCash,No-show,,False
+APT-01188,2025-06-09,Kevin Ramos,BGC,Female,Scalp Treatment,56,1266.46,Cash,Cancelled,,True
+APT-01189,2025-12-20,Ryan Castillo,Pasig,Female,Haircut,47,323.23,Debit Card,Completed,4.6,False
+APT-01190,2026-03-16,Carlo Mendoza,Ortigas,Female,Hair Relaxing,100,2109.53,Credit Card,Completed,4.8,False
+APT-01191,2026-01-19,Jose Reyes,Quezon City,Female,Toning,72,921.48,GCash,Cancelled,,False
+APT-01192,2025-09-07,Maria Santos,Quezon City,Male,Hair Coloring,160,1037.77,Credit Card,Completed,3.8,True
+APT-01193,2025-05-19,Jose Reyes,Quezon City,Male,Keratin Treatment,258,3806.2,Maya,Completed,4.8,True
+APT-01194,2025-07-10,Bianca Flores,Pasig,Non-binary,Full Highlights,152,2538.76,GCash,Cancelled,,False
+APT-01195,2025-08-31,Carlo Mendoza,Ortigas,Male,Hair Spa,71,506.87,GCash,Completed,3.4,False
+APT-01196,2025-08-23,Maria Santos,Ortigas,Female,Hair Coloring,97,1362.76,GCash,Completed,4.2,True
+APT-01197,2025-04-09,Ryan Castillo,Pasig,Female,Hair Coloring,144,1266.79,GCash,Completed,4.2,False
+APT-01198,2025-04-14,Kevin Ramos,Quezon City,Female,Hair Relaxing,109,1116.21,Maya,Completed,3.2,True
+APT-01199,2025-10-28,Anna Dela Cruz,Ortigas,Male,Keratin Treatment,229,4112.08,Debit Card,Completed,3.7,False
+APT-01200,2025-04-21,Kevin Ramos,Quezon City,Male,Toning,111,891.34,GCash,Completed,4.2,True
